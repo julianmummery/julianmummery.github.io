@@ -1,6 +1,6 @@
 ---
 layout: archive
-permlink: coding-projects/
+permlink: /coding-projects/
 title: "Coding Projects and Examples by Tags"
 author_profile: true
 header: 
