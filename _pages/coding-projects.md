@@ -4,8 +4,10 @@ permlink: coding-projects/
 title: "Coding Projects and Examples by Tags"
 author_profile: true
 header: 
-	image: "https://julianmummery.github.io/assets/images/header-background.jpg" 
+   image: "/assets/images/header-background.jpg" 
 ---
+
+Hello from coding-projects.md
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
