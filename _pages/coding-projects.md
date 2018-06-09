@@ -4,7 +4,7 @@ permlink: /coding-projects/
 title: "Coding Projects and Examples by Tags"
 author_profile: true
 header: 
-	image: "/assets/images/background-header.jpg"
+	image: "/assets/images/header-background.jpg"
 ---
 
 {% include base_path %}
