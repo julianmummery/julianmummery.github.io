@@ -11,7 +11,8 @@ Categorised by language type: -
 
 <h2>HTML / CSS</h2>
 <ul>
-  <li>Coming soon...</li>
+  <li><a href="https://github.com/julianmummery/footer-at-base-of-page" target="_blank">Footer at base of page (code files)</a></li>
+  <li><a href="https://julianmummery.github.io/footer-at-base-of-page/" target="_blank">Footer at base of page (demo)</a></li>
 </ul>
 
 <h2>C#</h2>
