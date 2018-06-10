@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /coding-examples/
-title: "Code Examples / Snippets"
+title: "Code Examples"
 author_profile: true
 header: 
    image: "/assets/images/header-background.jpg" 
