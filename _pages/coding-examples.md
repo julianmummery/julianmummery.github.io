@@ -7,7 +7,7 @@ header:
    image: "/assets/images/header-background.jpg" 
 ---
 
-Code Examples categoried by language type
+Categorised by language type: -
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
