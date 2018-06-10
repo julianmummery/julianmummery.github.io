@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Portfolio of my Projects and Examples"
+locale                   : "en-GB"
+title                    : "Developer Portfolio"
 title_separator          : "-"
 name                     : "Julian Mummery"
-description              : "A Computer Coding Portfolio of Projects and Examples."
+description              : "A Developer Portfolio of my Projects and Examples."
 url                      : https://julianmummery.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Julian Mummery"
   avatar           : "/assets/images/bio-jm.png"
-  bio              : "My coding projects and examples"
+  bio              : "My projects and examples"
   location         : "Brighton, UK"
   email            : "julianmummery@gmail.com"
   uri              :
