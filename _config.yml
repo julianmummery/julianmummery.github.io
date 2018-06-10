@@ -20,7 +20,7 @@ title                    : "Developer Portfolio"
 title_separator          : "-"
 name                     : "Julian Mummery"
 description              : "A Developer Portfolio of my Projects and Examples."
-url                      : https://julianmummery.github.io/
+url                      : "https://julianmummery.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,11 +102,11 @@ analytics:
 author:
   name             : "Julian Mummery"
   avatar           : "/assets/images/bio-jm.png"
-  bio              : "My projects and examples"
+  bio              : "My coding projects / examples"
   location         : "Brighton, UK"
   email            : "julianmummery@gmail.com"
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : "https://julianmummery.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
