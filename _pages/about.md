@@ -17,11 +17,11 @@ header:
 </ul>
 
 <p>I have a keen passion for technology, especially programming since a very young age.</p>
-<p>Programming all started for me when I taught myself AMOS on the Amiga and then progressed to basic games on the ZX Spectrum 48k and the BBC Model B</p>
+<p>Programming all started for me when I taught myself AMOS on the Amiga and then progressed to basic games on the ZX Spectrum 48k and the BBC Model B during the early eighties.</p>
 <p>During 1990 I got my first opportunity to be part of a computer help desk team looking after around four hundren staff. This soon progressed to a Mainframe Computer Operator role working twelve hour shifts and which involved monitoring the overnight batch jobs that produced all the scheduled departmental reports.</p>
 <p>Commercial programming started for me during 1992 when I was trained as a Mainframe COBOL programmer. After several years the business moved to Open SYstems and this gave me the opportunity to cross-train into Microfocus COBOL (GUI) and Microfocus 4GL (Batch) programming projects.</p>
 <p>As soon as the .NET was made available by Microsoft I was again cross-trained to use VB.NET & ASP.NET which we used to create various Customer Portals and internal systems.</p>
-<p>This was just the beginning and you can view my other "Technical Skills" below</p>
+<p>This was just the beginning and you can view my other "Technical Skills" below: -</p>
 
 <h2>Technical SKills</h2>
 <h3>Programming Languages</h3>
