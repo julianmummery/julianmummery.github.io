@@ -2,8 +2,10 @@
 main:
   - title: "About"
     url: about/
-  - title: "Projects and Examples"
+  - title: "Projects"
     url: coding-projects/
+  - title: "Code Examples"
+    url: coding-examples/    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
