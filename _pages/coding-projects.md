@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /coding-projects/
-title: "Coding Projects and Examples by Tags"
+title: "Projects"
 author_profile: true
 header: 
    image: "/assets/images/header-background.jpg" 
