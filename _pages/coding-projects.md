@@ -16,7 +16,7 @@ Categorised by language type: -
 
 <h2>VB.NET</h2>
 <ul>
-  <li>Nested master pages [<a href="https://github.com/julianmummery/nested-master-pages-example/Nested-Master-Pages-Example.jpg" target="_blank">Screenshot</a> | <a href="https://github.com/julianmummery/nested-master-pages-example" target="_blank">Code</a>]</li>
+  <li>Nested master pages [<a href="https://github.com/julianmummery/nested-master-pages-example/blob/master/Nested-Master-Pages-Example.jpg" target="_blank">Screenshot</a> | <a href="https://github.com/julianmummery/nested-master-pages-example" target="_blank">Code</a>]</li>
 </ul>
 
 <h2>JavaScript</h2>
