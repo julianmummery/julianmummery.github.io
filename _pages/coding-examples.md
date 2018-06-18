@@ -7,7 +7,7 @@ header:
    image: "/assets/images/header-background.jpg" 
 ---
 
-Categorised by language type in ascending order: -
+Categorised by language in alphanumeric ascending order: -
 
 <h2>HTML / CSS</h2>
 <ul>
