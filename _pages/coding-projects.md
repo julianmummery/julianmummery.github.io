@@ -10,7 +10,7 @@ header:
 Categorised by language in alphanumeric ascending order: -
 
 <h2>JavaScript</h2>
-<h3>Sage CRM v7.3+</h3>
+<h4>Sage CRM v7.3+</h4>
 <ul>
   <li>Customisable Sage CRM JavaScript Context Menu [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
 </ul>
