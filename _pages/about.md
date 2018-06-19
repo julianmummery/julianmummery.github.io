@@ -13,7 +13,7 @@ header:
   <li>Valued worker who performs confidently and effectively under pressure and enjoys a good challenge</li>
   <li>Enthusiastic learner who swiftly grasps new concepts and technical skills</li>
   <li>Excellent communicator and good listener</li>
-  <li>Third line support</li>
+  <li>Third line support experience for many years</li>
 </ul>
 
 <p>I have a keen passion for technology, especially programming since a very young age.</p>
