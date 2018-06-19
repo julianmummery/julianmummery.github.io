@@ -43,7 +43,7 @@ header:
   <li>InstallShield Scripting</li>
   <li>Centura / Gupta (5+ Years)</li>
   <li>COBOL (5+ Years)</li>
-  <li>Java (1 Year)</li>
+  <li>Java (2 Year+)</li>
 </ul>
 
 <h3>Software Development Tools</h3>
