@@ -28,13 +28,14 @@ header:
 <h3>Programming Languages</h3>
 <ul>
   <li>ASP.NET (13+ Years)</li>
+  <li>VB.NET (13+ Years)</li>
   <li>WinForms (13+ Years)</li>
   <li>SQL (13+ Years)</li>
   <li>T-SQL (13+ Years)</li>
   <li>CSS (15+ Years)</li>
   <li>HTML (15+ Years)</li>
   <li>VBScript (15+ Years)</li>
-  <li>JavaScript (3+ Years)</li>
+  <li>JavaScript (4+ Years)</li>
   <li>JScript (ECMA Script)</li>
   <li>Informix 4GL (5+ Years)</li>
   <li>XML (3+ Years)</li>
@@ -54,7 +55,7 @@ header:
   <li>SVN / Tortoise</li>
   <li>Redgate Tools</li>
   <li>MySQL</li>
-  <li>Sage CRM Customisation</li>
+  <li>Sage CRM</li>
   <li>Microsoft Visual Basic 6</li>
   <li>Centura Team Developer</li>
   <li>Microsoft Source Safe</li>
@@ -67,6 +68,6 @@ header:
 <h3>OS / Platforms</h3>
 <ul>
   <li>Microsoft Operating Systems</li>
-  <li>Unix Platforms	•	VB.NET (13+ Years)</li>
+  <li>Unix/Linux Platforms</li>
 </ul>
 
