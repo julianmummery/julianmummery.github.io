@@ -24,6 +24,12 @@ reverse chronological order
 <p>Commercial programming started for me during 1992 when I was trained as a Mainframe COBOL programmer. After several years the business moved to Open SYstems and this gave me the opportunity to cross-train into Microfocus COBOL (GUI) and Microfocus 4GL (Batch) programming.</p>
 <p>As soon as .NET was made available by Microsoft I was again cross-trained to use VB.NET & ASP.NET which we used to create various Customer Portals and internal systems.</p>
 <p>This was just the beginning for me and along the way I have acquired numerous skills working in I.T.</p>
+
+
+<h2>Experience</h2>
+<a href="https://julianmummery.github.io/pages/experience/" target="_blank">Experience in Reverse Chronological Order</a>
+
+
 <p>You can view my other "Technical Skills" below: -</p>
 
 <h2>Technical SKills</h2>
