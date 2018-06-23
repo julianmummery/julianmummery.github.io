@@ -10,10 +10,10 @@ header:
 Displayed in reverse chronological order: -
 
 <h2>Loria Consulting Ltd</h2>
+Employed from: November 2013 -to- Present Day
+<br>
 <h5>Overview</h5>
 <p>...</p>
-<br>
-<p>Employed from: November 2013 -to- Present Day</p>
 <br>
 <h5>Examples of Work</h5> 
 <ul>
@@ -85,8 +85,8 @@ Displayed in reverse chronological order: -
 <p>GMAC Commercial Finance (GMAC CF) is a subsidiary of GMAC Financial Services, a bank holding company with operations in North America, South America, Europe and Asia-Pacific. GMAC specializes in automotive finance, real estate finance, insurance, commercial finance and online banking. GMAC CF is one of the most trusted sources of capital for the middle-market businesses it serves.</p>
 <br>
 <p>Employed from: ? -to- ?  (GMACCF - Subsidiary of General Motors - Acquired from Bank of New York)</p>
-<p>-------------: ? -to- ?  (Bank of New York - Acquired from Lloyds Bank Plc)</p>
-<p>-------------: ? -to- ?  (Internal Factors Ltd - Subsidiary of Lloyds Bank Plc)</p>
+<p>Employed from: ? -to- ?  (Bank of New York - Acquired from Lloyds Bank Plc)</p>
+<p>Employed from: ? -to- ?  (Internal Factors Ltd - Subsidiary of Lloyds Bank Plc)</p>
 <br>
 <h5>Examples of Work</h5> 
 <ul>
