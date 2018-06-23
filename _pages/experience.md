@@ -15,9 +15,8 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> CRM Consultant</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">...</p>
-<br>
-<h5>Examples of Work</h5> 
-<ul>
+<h5 style="margin-top: -50px">Examples of Work</h5> 
+<ul style="font-size:0.70em;">
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
@@ -28,8 +27,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">Job Title: Senior Web Applications Developer</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">...</p>
-<br>
-<h5>Examples of Work</h5> 
+<h5 style="margin-top: -50px">Examples of Work</h5> 
 <ul>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
@@ -41,8 +39,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">Job Title: Senior Developer</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">...</p>
-<br>
-<h5>Examples of Work</h5> 
+<h5 style="margin-top: -50px">Examples of Work</h5> 
 <ul>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
@@ -54,8 +51,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">Job Title: Windows Application Developer</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">...</p>
-<br>
-<h5>Examples of Work</h5> 
+<h5 style="margin-top: -50px">Examples of Work</h5> 
 <ul>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
@@ -67,8 +63,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">Job Title: Systems Support Analyst / Programmer</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">...</p>
-<br>
-<h5>Examples of Work</h5> 
+<h5 style="margin-top: -50px">Examples of Work</h5> 
 <ul>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
@@ -80,8 +75,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">Job Title: Customer Services Representative</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">I.T. Consultancy firm based in the United States.<br>A work colleague from General Motors recommended me to them to help out on a part-time ASP.NET/C# project.</p>
-<br>
-<h5>Examples of Work</h5>
+<h5 style="margin-top: -50px">Examples of Work</h5> 
 <ul>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
@@ -95,8 +89,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">Job Title: Customer Services Representative</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">GMAC Commercial Finance (GMAC CF) is a subsidiary of GMAC Financial Services, a bank holding company with operations in North America, South America, Europe and Asia-Pacific. GMAC specializes in automotive finance, real estate finance, insurance, commercial finance and online banking. GMAC CF is one of the most trusted sources of capital for the middle-market businesses it serves.</p>
-<br>
-<h5>Examples of Work</h5> 
+<h5 style="margin-top: -50px">Examples of Work</h5> 
 <ul>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
