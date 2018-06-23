@@ -9,7 +9,6 @@ header:
 
 Displayed in reverse chronological order: -
 
-<br>
 <hr/>
 <h2>Loria Consulting Ltd</h2>
 Employed from: November 2013 -to- Present Day
@@ -23,7 +22,6 @@ Employed from: November 2013 -to- Present Day
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
 
-<br>
 <hr/>
 <h2>Direct Ferries Ltd</h2>
 <h5>Overview</h5>
@@ -37,7 +35,6 @@ Employed from: November 2013 -to- Present Day
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
 
-<br>
 <hr/>
 <h2>Dynamic Technical Concepts Ltd</h2>
 <h5>Overview</h5>
@@ -51,7 +48,6 @@ Employed from: November 2013 -to- Present Day
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
 
-<br>
 <hr/>
 <h2>Friday Ad Ltd</h2>
 <h5>Overview</h5>
@@ -65,7 +61,6 @@ Employed from: November 2013 -to- Present Day
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
 
-<br>
 <hr/>
 <h2>Berkely Alexander Ltd</h2>
 <h5>Overview</h5>
@@ -79,7 +74,6 @@ Employed from: November 2013 -to- Present Day
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
 
-<br>
 <hr/>
 <h2>Attevo</h2>
 <h5>Overview</h5>
@@ -92,7 +86,6 @@ Employed from: November 2013 -to- Present Day
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
 
-<br>
 <hr/>
 <h2>GMAC Commercial Finance (General Motors)</h2>
 <h5>Overview</h5>
@@ -108,17 +101,15 @@ Employed from: November 2013 -to- Present Day
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
 
-<br>
 <hr/>
 <h2>Souther Water Authority</h2>
-Employed from: ? -to- ?
+<h6>Employed from: ? -to- ?</h6>
 <br>
 <h5>Overview</h5>
-<p>...</p>
+<h6>...</h6>
 <br>
-<p>Only customer service experience gained here.</p> 
+<h6>Only customer service experience gained here.</h6>
 
-<br>
 <hr/>
 <h2>The Royal Navy</h2>
 Employed from: ? -to- ?
