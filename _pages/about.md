@@ -5,6 +5,8 @@ header:
    image: "/assets/images/header-background.jpg"
 ---
 
+reverse chronological order
+
 <h2>Overview</h2>
 <ul>
   <li>IT Professional with over 25+ years of experience</li>
