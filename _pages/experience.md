@@ -20,6 +20,14 @@ Displayed in reverse chronological order: -
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
+<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<ul style="font-size:0.70em;">
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+</ul>
 
 <hr/>
 <h2>Direct Ferries Ltd</h2>
@@ -31,6 +39,14 @@ Displayed in reverse chronological order: -
 <ul style="font-size:0.70em;">
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
+</ul>
+<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<ul style="font-size:0.70em;">
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
 </ul>
 
 <hr/>
@@ -44,6 +60,14 @@ Displayed in reverse chronological order: -
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
+<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<ul style="font-size:0.70em;">
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+</ul>
 
 <hr/>
 <h2>Friday Ad Ltd</h2>
@@ -56,7 +80,15 @@ Displayed in reverse chronological order: -
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
-
+<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<ul style="font-size:0.70em;">
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+</ul>
+  
 <hr/>
 <h2>Berkely Alexander Ltd</h2>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:<strong> ? <strong>-to-</strong> ?</p>
@@ -68,7 +100,15 @@ Displayed in reverse chronological order: -
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
-
+<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<ul style="font-size:0.70em;">
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+</ul>
+  
 <hr/>
 <h2>Attevo</h2>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:<strong> ? <strong>-to-</strong> ?</p>
@@ -80,7 +120,15 @@ Displayed in reverse chronological order: -
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
-
+<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<ul style="font-size:0.70em;">
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+</ul>
+  
 <hr/>
 <h2>GMAC Commercial Finance (General Motors)</h2>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> ? <strong>-to-</strong> ?  (GMACCF - Subsidiary of General Motors - Acquired from Bank of New York)</p>
@@ -94,7 +142,15 @@ Displayed in reverse chronological order: -
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>... [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
 </ul>
-
+<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<ul style="font-size:0.70em;">
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+</ul>
+  
 <hr/>
 <h2>Souther Water Authority</h2>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> ? <strong>-to-</strong> ?</p>
@@ -103,11 +159,26 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em;">...</p>
 <br>
 <p style="font-size:0.70em;">Only customer service experience gained here.</p>
+<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<ul style="font-size:0.70em;">
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+</ul>
 
 <hr/>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> ? <strong>-to-</strong> ?</p>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Junior Seaman Operator (Missile Operator)</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">...</p>
-<br>
+<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<ul style="font-size:0.70em;">
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+  <li>tbc</li>
+</ul>
 <p style="font-size:0.70em;">Military basic training. Left before active service due to being voluteered down a career path I did <strong>not</strong> want to take. That being underwater for up to six months of the year!</p> 
