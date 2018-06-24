@@ -36,21 +36,21 @@ For more specific information about the businesses I have worked for along with 
 <ul style="font-size:0.70em;">
   <li>ASP.NET (13+ Years)</li>
   <li>VB.NET (13+ Years)</li>
+  <li>JavaScript (6+ Years)</li>
+  <li>CSS (15+ Years)</li>
+  <li>HTML (15+ Years)</li>  
   <li>WinForms (13+ Years)</li>
   <li>SQL (13+ Years)</li>
   <li>T-SQL (13+ Years)</li>
-  <li>CSS (15+ Years)</li>
-  <li>HTML (15+ Years)</li>
   <li>VBScript (15+ Years)</li>
-  <li>JavaScript (4+ Years)</li>
-  <li>JScript (ECMA Script)</li>
+  <li>Centura/Gupta (5+ Years)</li>
+  <li>COBOL (5+ Years)</li>
   <li>Informix 4GL (5+ Years)</li>
   <li>XML (3+ Years)</li>
   <li>AJAX (3+ Years)</li>
+  <li>Java (2+ Years)</li>
   <li>InstallShield Scripting</li>
-  <li>Centura / Gupta (5+ Years)</li>
-  <li>COBOL (5+ Years)</li>
-  <li>Java (2 Year+)</li>
+  <li>JScript (ECMA Script)</li>
 </ul>
 
 <h5 style="padding-left:1.3em;">Software Development Tools</h5>
@@ -59,7 +59,7 @@ For more specific information about the businesses I have worked for along with 
   <li>Microsoft SQL Server 2012/8/5</li>
   <li>IIS</li>
   <li>GitHub</li>
-  <li>SVN / Tortoise</li>
+  <li>SVN/Tortoise</li>
   <li>Redgate Tools</li>
   <li>MySQL</li>
   <li>Sage CRM</li>
