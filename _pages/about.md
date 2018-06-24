@@ -4,7 +4,6 @@ permalink: /about/
 header: 
    image: "/assets/images/header-background.jpg"
 ---
-<h2>Experience</h2>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">
 For more specific information about the businesses I have worked for along with details on some of the projects I have had the opportunity to be part of please see my <a href="https://julianmummery.github.io/experience/" target="_blank">Experience in Reverse Chronological Order</a>
   
@@ -21,7 +20,7 @@ For more specific information about the businesses I have worked for along with 
 
 <hr/>
 
-<h2>Bio</h2>
+<h2>Bio / Profile</h2>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">I have a keen passion for technology, especially programming since a very young age.</p>
 <br>
 <p style="font-size:0.70em; margin-top:0;">Programming all started for me when I taught myself AMOS on the Amiga and then progressed to creating amateur games on the ZX Spectrum 48k and the BBC Model B during the mid-eighties.</p>
