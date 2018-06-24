@@ -28,7 +28,7 @@ reverse chronological order
 
 <h2>Experience</h2>
 <p>
-For more specific information about the businesses I have worked for along with details on some of the projects I have had the opportunity to be part of please see my <a href="/experience/" target="_blank">Experience in Reverse Chronological Order</a>
+For more specific information about the businesses I have worked for along with details on some of the projects I have had the opportunity to be part of please see my <a href="https://github.com/julianmummery/experience/" target="_blank">Experience in Reverse Chronological Order</a>
 
 <hr/>
 
