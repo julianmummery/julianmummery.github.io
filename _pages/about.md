@@ -32,7 +32,7 @@ For more specific information about the businesses I have worked for along with 
 <hr/>
 
 <h2>Technical Skills</h2>
-<h3>Programming Languages</h3>
+<h5 style="padding-left:1em;">Programming Languages</h5>
 <ul style="font-size:0.70em;">
   <li>ASP.NET (13+ Years)</li>
   <li>VB.NET (13+ Years)</li>
@@ -53,7 +53,7 @@ For more specific information about the businesses I have worked for along with 
   <li>Java (2 Year+)</li>
 </ul>
 
-<h3>Software Development Tools</h3>
+<h5 style="padding-left:1em;">Software Development Tools</h5>
 <ul style="font-size:0.70em;">
   <li>Microsoft Visual Studio 2017/15/10/8</li>
   <li>Microsoft SQL Server 2012/8/5</li>
@@ -72,7 +72,7 @@ For more specific information about the businesses I have worked for along with 
   <li>Microsoft Office / Visio</li>  
 </ul>
 
-<h3>OS / Platforms</h3>
+<h5 style="padding-left:1em;">OS / Platforms</h5>
 <ul style="font-size:0.70em;">
   <li>Microsoft Operating Systems</li>
   <li>Unix/Linux Platforms</li>
