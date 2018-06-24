@@ -84,22 +84,23 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> April 2008 <strong>-to-</strong> June 2008</p>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Windows Application Developer</p>
 <h5>Overview</h5>
-<p style="font-size:0.70em;">tbc. I left this role due to a better job opportunity that was offered to me by Dynamic Technical Concepts Ltd.</p> 
+<p style="font-size:0.70em;">Creating Windows desktop applications. I left this role due to a better job opportunity that was offered to me by Dynamic Technical Concepts Ltd.</p> 
 <h5 style="margin-top: 0px">Examples of Work</h5>
 <ul style="font-size:0.70em;">
   <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
 </ul>
 <h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
+  <li>Design / create & maintain ASP.NET / VB.NET applications</li>
+  <li>Design / create & maintain VB6 applications</li>
+  <li>Design / create & maintain reports</li>
+  <li>Liaise with clients in a ‘Business Analysis’ role</li>
+  <li>Assist work colleagues with problems</li>
+  <li>Creation of ‘Technical Specifications’</li>
 </ul>
   
 <hr/>
-<h2>Berkely Alexander Ltd</h2>
+<h2>Berkeley Alexander Ltd</h2>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 2006 <strong>-to-</strong> March 2008</p>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Systems Support Analyst / Programmer</p>
 <h5>Overview</h5>
@@ -149,7 +150,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Customer Services Representative</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">GMAC Commercial Finance (GMAC CF) is a subsidiary of GMAC Financial Services, a bank holding company with operations in North America, South America, Europe and Asia-Pacific. GMAC specializes in automotive finance, real estate finance, insurance, commercial finance and online banking. GMAC CF is one of the most trusted sources of capital for the middle-market businesses it serves.</p>
-<p>I started working on the I.T. Help Desk progressed from there to Computer Operator doing shift work looking after IBM Mainframe. Then over the years worked up from a Trainee Computer Programmer to an Analyst / Designer / Lead Programmer.  
+<p style="font-size:0.70em;">I started working on the I.T. Help Desk progressed from there to Computer Operator doing shift work looking after IBM Mainframe. Then over the years worked up from a Trainee Computer Programmer to an Analyst / Designer / Lead Programmer.  
 </p>
 <h5 style="margin-top: 0px">Examples of Work</h5> 
 <ul style="font-size:0.70em;">
@@ -157,11 +158,22 @@ Displayed in reverse chronological order: -
 </ul>
 <h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
+  <li>Design / create & maintain ASP.NET / VB.NET web based applications / websites</li>
+  <li>SQL Server & Informix SQL creation of stored procedures</li>
+  <li>Design / create & maintain company Intranet</li>
+  <li>Design / create & maintain Centura / SQLWindows client server applications</li>
+  <li>Design / create & maintain Informix 4GL batch programs</li>
+  <li>Creation of ‘Technical Specifications’</li>
+  <li>Assist work colleagues with problems</li>
+  <li>Create and maintain Test / QA and Production overnight schedules</li>
+  <li>On-call for overnight production failures</li>
+  <li>Report to IT Manager on load capacity and general admin</li>
+  <li>Create and maintain InstallShield projects</li>
+  <li>Assist the Help Desk with daily production problems from users</li>
+  <li>Creation of original graphics / templates</li>
+  <li>I.T. Help Desk (2 years’ experience)</li>
+  <li>Computer Operator (18 Months experience)</li>
+  <li>The rest of my time spent at GMACCF was working my way up from a Trainee Computer Programmer to an Analyst / Designer in a Lead position</li>
 </ul>
   
 <hr/>
