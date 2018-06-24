@@ -82,7 +82,7 @@ Displayed in reverse chronological order: -
 <hr/>
 <h2>Friday Ad Ltd</h2>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> April 2008 <strong>-to-</strong> June 2008</p>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Windows Application Developer</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Application Developer</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">Creating Windows desktop applications. I left this role due to a better job opportunity that was offered to me by Dynamic Technical Concepts Ltd.</p> 
 <h5 style="margin-top: 0px">Examples of Work</h5>
@@ -147,7 +147,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> tbc <strong>-to-</strong> February 2006  (GMACCF - Subsidiary of General Motors - Acquired from Bank of New York)</p>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> tbc <strong>-to-</strong> tbc  (Bank of New York - Acquired from Lloyds Bank Plc)</p>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> August 1989 <strong>-to-</strong> tbc  (Internal Factors Ltd - Subsidiary of Lloyds Bank Plc)</p>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Customer Services Representative</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Analyst / Designer / Lead Programmer</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">GMAC Commercial Finance (GMAC CF) is a subsidiary of GMAC Financial Services, a bank holding company with operations in North America, South America, Europe and Asia-Pacific. GMAC specializes in automotive finance, real estate finance, insurance, commercial finance and online banking. GMAC CF is one of the most trusted sources of capital for the middle-market businesses it serves.</p>
 <p style="font-size:0.70em;">I started working on the I.T. Help Desk progressed from there to Computer Operator doing shift work looking after IBM Mainframe. Then over the years worked up from a Trainee Computer Programmer to an Analyst / Designer / Lead Programmer.  
@@ -179,7 +179,7 @@ Displayed in reverse chronological order: -
 <hr/>
 <h2>Souther Water Authority</h2>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 1987 <strong>-to-</strong> August 1989</p>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Customer Services Representative</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Accounts Clerk</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">...</p>
 <h5 style="margin-top: 0px">Examples of Work</h5> 
