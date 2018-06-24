@@ -14,10 +14,11 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 2013 <strong>-to-</strong> Present</p>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> CRM Consultant / Developer</p>
 <h5>Overview</h5>
-<p style="font-size:0.70em;">...</p>
+<p style="font-size:0.70em;">Loria Consulting are a registered Sage CRM Partner who provide B2B support / development and integration for on-premise Sage CRM</p>
+<p style="font-size:0.70em;">My main duties are development, support and troubleshooting. Development varies from client to client as most projects require bespoke functionality added to their Sage CRM installation. This can include development using any of the following: - JavaScript, HTML, CSS, ASP.NET, VB.NET, C#, T-SQL, VBScript, JScript (ECMAScript)</p>
 <h5 style="margin-top: 0px">Examples of Work</h5> 
 <ul style="font-size:0.70em;">
-  <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
+  <li>None Available</li>
 </ul>
 <h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
