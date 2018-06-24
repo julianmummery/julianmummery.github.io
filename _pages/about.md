@@ -57,9 +57,18 @@ For more specific information about the businesses I have worked for along with 
   <li>Delphi (3+ Years - non-commercial experience)</li>  
 </ul>
 
-<h5 style="padding-left:1.3em;">Software Development Tools</h5>
+<h5 style="padding-left:1.3em;">Operating Systems</h5>
 <ul style="font-size:0.70em;">
-  <li>Microsoft Visual Studio 2017/15/10/8</li>
+  <li>Microsoft Windows Server 2012/2008/2000/NT</li>
+  <li>Unix, Ubuntu, Kali</li>
+  <li>OS/2</li>
+  <li>OS/2</li>
+</ul>
+
+<h5 style="padding-left:1.3em;">Other</h5>
+<ul style="font-size:0.70em;">
+  <li>Microsoft Visual Studio 2017/15/10/8/5</li>
+  <li>Microsoft Team Foundation Server</li>
   <li>Microsoft SQL Server 2012/8/5</li>
   <li>IIS</li>
   <li>GitHub</li>
@@ -76,10 +85,3 @@ For more specific information about the businesses I have worked for along with 
   <li>Microsoft Office / Visio</li>  
   <li>Unix/Linux VI Editor</li>   
 </ul>
-
-<h5 style="padding-left:1.3em;">OS / Platforms</h5>
-<ul style="font-size:0.70em;">
-  <li>Microsoft Operating Systems</li>
-  <li>Unix/Linux Platforms</li>
-</ul>
-
