@@ -4,6 +4,7 @@ permalink: /about/
 header: 
    image: "/assets/images/header-background.jpg"
 ---
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">kkk</p>
 <h2>Overview</h2>
 <ul style="font-size:0.70em;">
   <li>IT Professional with over 25+ years of experience</li>
@@ -15,6 +16,9 @@ header:
   <li>Third line support experience for many years</li>
 </ul>
 
+<hr/>
+
+<h2>Bio</h2>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">I have a keen passion for technology, especially programming since a very young age.</p>
 <br>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">Programming all started for me when I taught myself AMOS on the Amiga and then progressed to creating amateur games on the ZX Spectrum 48k and the BBC Model B during the mid-eighties.</p>
@@ -28,6 +32,8 @@ header:
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">This was just the beginning for me and along the way I have acquired numerous skills working in I.T.</p>
 <br>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">You can view my other "Technical Skills" below: -</p>
+
+<hr/>
 
 <h2>Experience</h2>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;">
