@@ -17,7 +17,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em;">...</p>
 <h5 style="margin-top: 0px">Examples of Work</h5> 
 <ul style="font-size:0.70em;">
-  <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
+  <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
 </ul>
 <h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
@@ -41,7 +41,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em;">...</p>
 <h5 style="margin-top: 0px">Examples of Work</h5>
 <ul style="font-size:0.70em;">
-  <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
+  <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
 </ul>
 <h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
@@ -62,7 +62,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em;">...</p>
 <h5 style="margin-top: 0px">Examples of Work</h5>
 <ul style="font-size:0.70em;">
-  <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
+  <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
 </ul>
 <h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
@@ -87,7 +87,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em;">Creating Windows desktop applications. I left this role due to a better job opportunity that was offered to me by Dynamic Technical Concepts Ltd.</p> 
 <h5 style="margin-top: 0px">Examples of Work</h5>
 <ul style="font-size:0.70em;">
-  <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
+  <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
 </ul>
 <h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
@@ -107,7 +107,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em;">...</p>
 <h5 style="margin-top: 0px">Examples of Work</h5>
 <ul style="font-size:0.70em;">
-  <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
+  <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
 </ul>
 <h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
@@ -131,7 +131,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.70em;">I.T. Consultancy firm based in the United States.<br>A work colleague from General Motors recommended me to them to help out on a part-time ASP.NET/C# project.</p>
 <h5 style="margin-top: 0px">Examples of Work</h5>
 <ul style="font-size:0.70em;">
-  <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
+  <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
 </ul>
 <h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
@@ -154,7 +154,7 @@ Displayed in reverse chronological order: -
 </p>
 <h5 style="margin-top: 0px">Examples of Work</h5> 
 <ul style="font-size:0.70em;">
-  <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
+  <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
 </ul>
 <h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
