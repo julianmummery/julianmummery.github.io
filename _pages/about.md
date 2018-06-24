@@ -36,6 +36,7 @@ For more specific information about the businesses I have worked for along with 
 <ul style="font-size:0.70em;">
   <li>ASP.NET (14+ Years)</li>
   <li>VB.NET (14+ Years)</li>
+  <li>C# (1+ Years)</li>  
   <li>JavaScript (6+ Years)</li>
   <li>CSS (15+ Years)</li>
   <li>HTML (15+ Years)</li>  
