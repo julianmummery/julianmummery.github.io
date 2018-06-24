@@ -4,7 +4,7 @@ permalink: /coding-examples/
 title: "Code Examples"
 author_profile: true
 header: 
-   image: "/assets/images/header-background.jpg" 
+   image: "/assets/images/header-android-code.png" 
 ---
 
 Categorised by language in alphanumeric ascending order: -
