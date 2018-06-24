@@ -10,7 +10,7 @@ header:
 Categorised by language in alphanumeric ascending order: -
 
 <h2>JavaScript</h2>
-<h5>Sage CRM v7.3+</h5>
+<h5 style="padding-left:1em;">Sage CRM v7.3+</h5>
 <ul>
   <li>Customisable Sage CRM JavaScript Context Menu [ <a href="https://github.com/julianmummery/sagecrm-context-menu" target="_blank">Code</a> ]</li>
   <li>Processing, Please Wait Animated Spinner [ <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true" target="_blank">Demo</a> | <a href="https://github.com/julianmummery/sagecrm-please-wait-animation" target="_blank">Code</a> ]</li>
