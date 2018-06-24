@@ -172,7 +172,7 @@ Displayed in reverse chronological order: -
   <li>Assist the Help Desk with daily production problems from users</li>
   <li>Creation of original graphics / templates</li>
   <li>I.T. Help Desk (2 years’ experience)</li>
-  <li>Computer Operator (18 Months experience)</li>
+  <li>IBM Mainframe Computer Operator (18 Months experience)</li>
   <li>The rest of my time spent at GMACCF was working my way up from a Trainee Computer Programmer to an Analyst / Designer in a Lead position</li>
 </ul>
   
