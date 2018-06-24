@@ -11,8 +11,8 @@ Displayed in reverse chronological order: -
 
 <hr/>
 <h2>Loria Consulting Ltd</h2>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 2013 <strong>-to-</strong> Present Day</p>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> CRM Consultant</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 2013 <strong>-to-</strong> Present</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> CRM Consultant / Developer</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">...</p>
 <h5 style="margin-top: 0px">Examples of Work</h5> 
@@ -21,17 +21,22 @@ Displayed in reverse chronological order: -
 </ul>
 <h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
 <ul style="font-size:0.70em;">
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
+  <li>Bespoke C# & VB.NET desktop applications (WinForms)</li>
+  <li>Creation of scalable website / portal & extranet solutions</li>
+  <li>SQL Server database programming</li>
+  <li>Live environment troubleshooting, tracing & debugging</li>
+  <li>Provide coding & configuration skills to deliver bespoke software solutions</li>
+  <li>Providing 3rd line software & server support to our partners & clients</li> 
+  <li>Involvement in the scoping & specification process, including on-site scoping sessions & subsequent documentation</li>
+  <li>Installing and updating new and existing software installations</li>
+  <li>Liaising with customers & business partners as required</li>
+  <li>Maintaining records in the companies CRM system</li>
 </ul>
 
 <hr/>
 <h2>Direct Ferries Ltd</h2>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 2012 <strong>-to-</strong> November 2013</p>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Senior Web Applications Developer</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> September 2012 <strong>-to-</strong> November 2013</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Senior Software Engineer</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">...</p>
 <h5 style="margin-top: 0px">Examples of Work</h5>
@@ -40,17 +45,19 @@ Displayed in reverse chronological order: -
 </ul>
 <h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
 <ul style="font-size:0.70em;">
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
+  <li>Develop and maintain advanced web app controls (ASP.NET / VB.NET)</li>
+  <li>Develop and maintain various websites/applications (ASP.NET / VB.NET)</li>
+  <li>Maintain SQL Server databases</li>
+  <li>Resolving 2nd line support issues relating to live production issues</li>
+  <li>Develop and maintain internal back office system (ASP.NET / VB.NET)</li>
+  <li>Creation of ‘Technical Specifications’</li>
+  <li>Assist work colleagues with problems</li>
 </ul>
 
 <hr/>
 <h2>Dynamic Technical Concepts Ltd</h2>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> ? <strong>-to-</strong> ?</p>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Senior Developer</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> July 2008 <strong>-to-</strong> September 2012</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Senior Web / Applications Developer</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">...</p>
 <h5 style="margin-top: 0px">Examples of Work</h5>
@@ -59,19 +66,25 @@ Displayed in reverse chronological order: -
 </ul>
 <h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
 <ul style="font-size:0.70em;">
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
+  <li>Developing Web and Desktop applications using ASP.NET / VB.NET</li>
+  <li>Creation of ‘Technical Specifications’</li>
+  <li>Planning and creation of commercial websites for clients</li>
+  <li>Evaluating and changing websites for SEO compliance</li>
+  <li>Creation of new ‘Online Insurance Products’ for price comparison system</li>
+  <li>Enhance and maintain online ‘Price Comparison System’</li>
+  <li>Liaise with clients in a ‘Business Analysis’ role</li>
+  <li>Provide support via telephone and e-mail</li>
+  <li>Design / create & maintain reports</li>
+  <li>Assist work colleagues with problems</li>
+  <li>Creation of graphical elements / components using Adobe software</li>
 </ul>
 
 <hr/>
 <h2>Friday Ad Ltd</h2>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> ? <strong>-to-</strong> ?</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> April 2008 <strong>-to-</strong> June 2008</p>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Windows Application Developer</p>
 <h5>Overview</h5>
-<p style="font-size:0.70em;">...</p>
+<p style="font-size:0.70em;">tbc. I left this role due to a better job opportunity that was offered to me by Dynamic Technical Concepts Ltd.</p> 
 <h5 style="margin-top: 0px">Examples of Work</h5>
 <ul style="font-size:0.70em;">
   <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
@@ -87,7 +100,7 @@ Displayed in reverse chronological order: -
   
 <hr/>
 <h2>Berkely Alexander Ltd</h2>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> ? <strong>-to-</strong> ?</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 2006 <strong>-to-</strong> March 2008</p>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Systems Support Analyst / Programmer</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">...</p>
@@ -97,17 +110,22 @@ Displayed in reverse chronological order: -
 </ul>
 <h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
 <ul style="font-size:0.70em;">
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
+  <li>Creation of ‘Technical Specifications’</li>
+  <li>Create bespoke software applications using VB 6 / VB.NET</li>
+  <li>Maintain MySQL databases</li>
+  <li>Writing procedures / operating instructions</li>
+  <li>Maintain insurance quotation engine</li>
+  <li>Create / maintain ‘Management Information System’</li>
+  <li>Client facing help desk support</li>
+  <li>Server maintenance / repair / upgrades etc…</li>
+  <li>Creation of advanced Excel spreadsheets</li>
+  <li>Evaluating / purchasing external software and hardware</li>
 </ul>
   
 <hr/>
 <h2>Attevo</h2>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> ? <strong>-to-</strong> ?</p>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Customer Services Representative</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> tbc <strong>-to-</strong> tbc</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Freelance C# Developer</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">I.T. Consultancy firm based in the United States.<br>A work colleague from General Motors recommended me to them to help out on a part-time ASP.NET/C# project.</p>
 <h5 style="margin-top: 0px">Examples of Work</h5>
@@ -116,21 +134,23 @@ Displayed in reverse chronological order: -
 </ul>
 <h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
 <ul style="font-size:0.70em;">
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
+  <li>Remote working</li>
+  <li>Creating prototype / wireframe ASP.NET/C# Web Application pages</li>
+  <li>Working from specification documents</li>
+  <li>Time recording</li>
+  <li>Taking part in telephone conference calls</li>
 </ul>
   
 <hr/>
 <h2>GMAC Commercial Finance (General Motors)</h2>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> ? <strong>-to-</strong> ?  (GMACCF - Subsidiary of General Motors - Acquired from Bank of New York)</p>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> ? <strong>-to-</strong> ?  (Bank of New York - Acquired from Lloyds Bank Plc)</p>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> ? <strong>-to-</strong> ?  (Internal Factors Ltd - Subsidiary of Lloyds Bank Plc)</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> tbc <strong>-to-</strong> February 2006  (GMACCF - Subsidiary of General Motors - Acquired from Bank of New York)</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> tbc <strong>-to-</strong> tbc  (Bank of New York - Acquired from Lloyds Bank Plc)</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> August 1989 <strong>-to-</strong> tbc  (Internal Factors Ltd - Subsidiary of Lloyds Bank Plc)</p>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Customer Services Representative</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">GMAC Commercial Finance (GMAC CF) is a subsidiary of GMAC Financial Services, a bank holding company with operations in North America, South America, Europe and Asia-Pacific. GMAC specializes in automotive finance, real estate finance, insurance, commercial finance and online banking. GMAC CF is one of the most trusted sources of capital for the middle-market businesses it serves.</p>
+<p>I started working on the I.T. Help Desk progressed from there to Computer Operator doing shift work looking after IBM Mainframe. Then over the years worked up from a Trainee Computer Programmer to an Analyst / Designer / Lead Programmer.  
+</p>
 <h5 style="margin-top: 0px">Examples of Work</h5> 
 <ul style="font-size:0.70em;">
   <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
@@ -146,7 +166,7 @@ Displayed in reverse chronological order: -
   
 <hr/>
 <h2>Souther Water Authority</h2>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> ? <strong>-to-</strong> ?</p>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 1987 <strong>-to-</strong> August 1989</p>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Customer Services Representative</p>
 <h5>Overview</h5>
 <p style="font-size:0.70em;">...</p>
@@ -156,28 +176,31 @@ Displayed in reverse chronological order: -
 </ul>
 <h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
 <ul style="font-size:0.70em;">
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
+  <li>Replying to customers letters</li>
+  <li>Dealing with the public on the telephone with account problems, change of address etc…</li>
+  <li>Applying changes to billing computer system</li>
+  <li>General office duties e.g. photocopying, filing etc…</li>
 </ul>
 
 <hr/>
-<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> ? <strong>-to-</strong> ?</p>
+<h2>The Royal Navy</h2>
+<p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Employed during:</strong> 1987</p>
 <p style="font-size:0.70em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Junior Seaman Operator (Missile Operator)</p>
 <h5>Overview</h5>
-<p style="font-size:0.70em;">...</p>
+<p style="font-size:0.70em;">Military basic training. Left before active service due to being voluteered down a career path I did <strong>not</strong> want to take. That being underwater for up to six months of the year!</p> 
 <h5 style="margin-top: 0px">Examples of Work</h5> 
 <ul style="font-size:0.70em;">
   <li>No examples available.</li>
 </ul>
 <h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
 <ul style="font-size:0.70em;">
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
-  <li>tbc</li>
+  <li>Fire Fighting</li>
+  <li>Search & Rescue</li>
+  <li>Weapons</li>
+  <li>Warfare</li>
+  <li>Classroom Seamanship Studies</li>
+  <li>Drill Practice</li>
+  <li>Washing, Ironing & Maintaining Kit</li>
+  <li>Parade Practice</li>
 </ul>
-<p style="font-size:0.70em;">Military basic training. Left before active service due to being voluteered down a career path I did <strong>not</strong> want to take. That being underwater for up to six months of the year!</p> 
+
