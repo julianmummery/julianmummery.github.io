@@ -52,6 +52,9 @@ For more specific information about the businesses I have worked for along with 
   <li>Java (2+ Years)</li>
   <li>InstallShield Scripting</li>
   <li>JScript (ECMA Script)</li>
+  <li>QuickBASIC (3+ Years)</li> 
+  <li>VB6 (3+ Years)</li>
+  <li>Delphi (3+ Years - non-commercial experience)</li>  
 </ul>
 
 <h5 style="padding-left:1.3em;">Software Development Tools</h5>
@@ -71,6 +74,7 @@ For more specific information about the businesses I have worked for along with 
   <li>Flash CS5/4</li>
   <li>InstallShield 7/5.5</li>  
   <li>Microsoft Office / Visio</li>  
+  <li>Unix/Linux VI Editor</li>   
 </ul>
 
 <h5 style="padding-left:1.3em;">OS / Platforms</h5>
