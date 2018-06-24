@@ -19,17 +19,17 @@ Displayed in reverse chronological order: -
 <ul style="font-size:0.70em;">
   <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
 </ul>
-<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
-  <li>Bespoke C# & VB.NET desktop applications (WinForms)</li>
-  <li>Creation of scalable website / portal & extranet solutions</li>
+  <li>Bespoke C# and VB.NET desktop applications (WinForms)</li>
+  <li>Creation of scalable website / portal and extranet solutions</li>
   <li>SQL Server database programming</li>
-  <li>Live environment troubleshooting, tracing & debugging</li>
-  <li>Provide coding & configuration skills to deliver bespoke software solutions</li>
-  <li>Providing 3rd line software & server support to our partners & clients</li> 
-  <li>Involvement in the scoping & specification process, including on-site scoping sessions & subsequent documentation</li>
+  <li>Live environment troubleshooting, tracing and debugging</li>
+  <li>Provide coding and configuration skills to deliver bespoke software solutions</li>
+  <li>Providing 3rd line software and server support to our partners and clients</li> 
+  <li>Involvement in the scoping and specification process, including on-site scoping sessions and subsequent documentation</li>
   <li>Installing and updating new and existing software installations</li>
-  <li>Liaising with customers & business partners as required</li>
+  <li>Liaising with customers and business partners as required</li>
   <li>Maintaining records in the companies CRM system</li>
 </ul>
 
@@ -43,7 +43,7 @@ Displayed in reverse chronological order: -
 <ul style="font-size:0.70em;">
   <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
 </ul>
-<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
   <li>Develop and maintain advanced web app controls (ASP.NET / VB.NET)</li>
   <li>Develop and maintain various websites/applications (ASP.NET / VB.NET)</li>
@@ -64,7 +64,7 @@ Displayed in reverse chronological order: -
 <ul style="font-size:0.70em;">
   <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
 </ul>
-<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
   <li>Developing Web and Desktop applications using ASP.NET / VB.NET</li>
   <li>Creation of ‘Technical Specifications’</li>
@@ -74,7 +74,7 @@ Displayed in reverse chronological order: -
   <li>Enhance and maintain online ‘Price Comparison System’</li>
   <li>Liaise with clients in a ‘Business Analysis’ role</li>
   <li>Provide support via telephone and e-mail</li>
-  <li>Design / create & maintain reports</li>
+  <li>Design / create and maintain reports</li>
   <li>Assist work colleagues with problems</li>
   <li>Creation of graphical elements / components using Adobe software</li>
 </ul>
@@ -89,7 +89,7 @@ Displayed in reverse chronological order: -
 <ul style="font-size:0.70em;">
   <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
 </ul>
-<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
   <li>tbc</li>
   <li>tbc</li>
@@ -108,7 +108,7 @@ Displayed in reverse chronological order: -
 <ul style="font-size:0.70em;">
   <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
 </ul>
-<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
   <li>Creation of ‘Technical Specifications’</li>
   <li>Create bespoke software applications using VB 6 / VB.NET</li>
@@ -132,7 +132,7 @@ Displayed in reverse chronological order: -
 <ul style="font-size:0.70em;">
   <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
 </ul>
-<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
   <li>Remote working</li>
   <li>Creating prototype / wireframe ASP.NET/C# Web Application pages</li>
@@ -155,7 +155,7 @@ Displayed in reverse chronological order: -
 <ul style="font-size:0.70em;">
   <li><a href="https://github.com/julianmummery/tbc" target="_blank">tbc</a></li>
 </ul>
-<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
   <li>tbc</li>
   <li>tbc</li>
@@ -174,7 +174,7 @@ Displayed in reverse chronological order: -
 <ul style="font-size:0.70em;">
   <li>No examples available.</li>
 </ul>
-<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
   <li>Replying to customers letters</li>
   <li>Dealing with the public on the telephone with account problems, change of address etc…</li>
@@ -192,15 +192,15 @@ Displayed in reverse chronological order: -
 <ul style="font-size:0.70em;">
   <li>No examples available.</li>
 </ul>
-<h5 style="margin-top: 0px">Duties & Responsibilities</h5> 
+<h5 style="margin-top: 0px">Duties and Responsibilities</h5> 
 <ul style="font-size:0.70em;">
   <li>Fire Fighting</li>
-  <li>Search & Rescue</li>
+  <li>Search and Rescue</li>
   <li>Weapons</li>
   <li>Warfare</li>
   <li>Classroom Seamanship Studies</li>
   <li>Drill Practice</li>
-  <li>Washing, Ironing & Maintaining Kit</li>
+  <li>Washing, Ironing and Maintaining Kit</li>
   <li>Parade Practice</li>
 </ul>
 
