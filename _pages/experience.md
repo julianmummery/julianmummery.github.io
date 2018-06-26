@@ -145,9 +145,9 @@ Displayed in reverse chronological order: -
   
 <hr/>
 <h2>GMAC Commercial Finance (General Motors)</h2>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> tbc <strong>-to-</strong> February 2006  (GMACCF - Subsidiary of General Motors - Acquired from Bank of New York)</p>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> tbc <strong>-to-</strong> tbc  (Bank of New York - Acquired from Lloyds Bank Plc)</p>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> August 1989 <strong>-to-</strong> tbc  (Internal Factors Ltd - Subsidiary of Lloyds Bank Plc)</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> March 2001 <strong>-to-</strong> February 2006  (GMACCF - Subsidiary of General Motors - Acquired from Bank of New York)</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> January 1998 <strong>-to-</strong> March 2001 (Bank of New York - Acquired from Lloyds Bank Plc)</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> August 1989 <strong>-to-</strong> January 1998 (Internal Factors Ltd - Subsidiary of Lloyds Bank Plc)</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Analyst / Designer / Lead Programmer</p>
 <h5>Overview</h5>
 <p style="font-size:0.80em;">GMAC Commercial Finance (GMAC CF) is a subsidiary of GMAC Financial Services, a bank holding company with operations in North America, South America, Europe and Asia-Pacific. GMAC specializes in automotive finance, real estate finance, insurance, commercial finance and online banking. GMAC CF is one of the most trusted sources of capital for the middle-market businesses it serves.</p>
