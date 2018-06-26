@@ -14,8 +14,8 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 2013 <strong>-to-</strong> Present</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> CRM Consultant / Developer</p>
 <h5>Overview</h5>
-<p style="font-size:0.80em;">Loria Consulting are a registered Sage CRM Partner who provide B2B support / development and integration for on-premise Sage CRM</p>
-<p style="font-size:0.80em;">My main duties are development, support and troubleshooting. Development varies from client to client as most projects require bespoke functionality added to their Sage CRM installation. This can include development using any of the following: - JavaScript, HTML, CSS, ASP.NET, VB.NET, C#, T-SQL, VBScript, JScript (ECMAScript)</p>
+<p style="font-size:0.80em;">Loria Consulting are a registered Sage CRM Partner who provide B2B support / development and integration for on-premise Sage CRM.</p>
+<p style="font-size:0.80em;">My main duties are development, support and troubleshooting. Development varies from client to client as most projects require bespoke functionality added to their Sage CRM installation. This can include development using any of the following: - JavaScript, HTML, CSS, ASP.NET, VB.NET, C#, T-SQL, VBScript, JScript (ECMAScript).</p>
 <h5 style="margin-top: 0px">Examples of Work</h5> 
 <ul style="font-size:0.80em;">
   <li>None Available</li>
@@ -39,7 +39,8 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> September 2012 <strong>-to-</strong> November 2013</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Senior Software Engineer</p>
 <h5>Overview</h5>
-<p style="font-size:0.80em;">...</p>
+<p style="font-size:0.80em;">Ferry ticket price comparison and booking system.
+I maintained and added new products and functionality to the online ferry ticket booking service (ASP.NET/VB.NET/T-SQL).  The business generates revenue by making a commission on ‘ferry’ and ‘accommodation’ tickets purchased via the site.</p>
 <h5 style="margin-top: 0px">Examples of Work</h5>
 <ul style="font-size:0.80em;">
   <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
@@ -60,7 +61,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> July 2008 <strong>-to-</strong> September 2012</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Senior Web / Applications Developer</p>
 <h5>Overview</h5>
-<p style="font-size:0.80em;">...</p>
+<p style="font-size:0.80em;">A business that offered bespoke software solutions. Mainly dealing with insurance based systems/product integration.</p>
 <h5 style="margin-top: 0px">Examples of Work</h5>
 <ul style="font-size:0.80em;">
   <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
@@ -105,7 +106,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 2006 <strong>-to-</strong> March 2008</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Systems Support Analyst / Programmer</p>
 <h5>Overview</h5>
-<p style="font-size:0.80em;">...</p>
+<p style="font-size:0.80em;">General insurance company serving hundreds of insurance agents across the UK. Using the built-in price comparison system, they can source insurance for their clients and receive a commission on purchase of a policy. I maintained and developed new features to the main website and also the insurance price comparison quote engine. I also plugged in new insurance products as they required careful integration into the quote engine.</p>
 <h5 style="margin-top: 0px">Examples of Work</h5>
 <ul style="font-size:0.80em;">
   <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
@@ -182,7 +183,7 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 1987 <strong>-to-</strong> August 1989</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Accounts Clerk</p>
 <h5>Overview</h5>
-<p style="font-size:0.80em;">...</p>
+<p style="font-size:0.80em;">My first office job was at Southern Water in Worthing. Even though I was programming as a hobby I had no commercial experience at this time.</p>
 <h5 style="margin-top: 0px">Examples of Work</h5> 
 <ul style="font-size:0.80em;">
   <li>No examples available.</li>
