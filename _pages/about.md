@@ -36,10 +36,12 @@ For more specific information about the businesses I have worked for along with 
 <ul style="font-size:0.70em;">
   <li>ASP.NET (14+ Years)</li>
   <li>VB.NET (14+ Years)</li>
-  <li>C# (1+ Years)</li>  
+  <li>C# (2+ Years)</li>  
+  <li>Java (2+ Years)</li>
   <li>JavaScript (6+ Years)</li>
-  <li>CSS (15+ Years)</li>
   <li>HTML (15+ Years)</li>  
+  <li>CSS (15+ Years)</li>
+  <li>AJAX (4+ Years)</li>
   <li>WinForms (14+ Years)</li>
   <li>SQL (14+ Years)</li>
   <li>T-SQL (14+ Years)</li>
@@ -48,8 +50,6 @@ For more specific information about the businesses I have worked for along with 
   <li>COBOL (5+ Years)</li>
   <li>Informix 4GL (5+ Years)</li>
   <li>XML (4+ Years)</li>
-  <li>AJAX (4+ Years)</li>
-  <li>Java (2+ Years)</li>
   <li>InstallShield Scripting</li>
   <li>JScript (ECMA Script)</li>
   <li>QuickBASIC (3+ Years)</li> 
