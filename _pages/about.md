@@ -83,4 +83,5 @@ For more specific information about the businesses I have worked for along with 
   <li>InstallShield 7/5.5</li>  
   <li>Microsoft Office / Visio</li>  
   <li>Unix / Linux VI Editor</li>   
+  <li>Trello</li>
 </ul>
