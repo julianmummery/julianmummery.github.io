@@ -11,7 +11,7 @@ Displayed in reverse chronological order: -
 
 <hr/>
 <h2>Loria Consulting Ltd</h2>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 2013 <strong>-to-</strong> Present</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Nov 2013 <strong>-to-</strong> Present</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> CRM Consultant / Developer</p>
 <h5>Overview</h5>
 <p style="font-size:0.80em;">Loria Consulting are a registered Sage CRM Partner who provide B2B support / development and integration for on-premise Sage CRM.</p>
@@ -36,7 +36,7 @@ Displayed in reverse chronological order: -
 
 <hr/>
 <h2>Direct Ferries Ltd</h2>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> September 2012 <strong>-to-</strong> November 2013</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Sep 2012 <strong>-to-</strong> Nov 2013</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Senior Software Engineer</p>
 <h5>Overview</h5>
 <p style="font-size:0.80em;">Ferry ticket price comparison and booking system.
@@ -58,7 +58,7 @@ I maintained and added new products and functionality to the online ferry ticket
 
 <hr/>
 <h2>Dynamic Technical Concepts Ltd</h2>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> July 2008 <strong>-to-</strong> September 2012</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Jul 2008 <strong>-to-</strong> Sep 2012</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Senior Web / Applications Developer</p>
 <h5>Overview</h5>
 <p style="font-size:0.80em;">A business that offered bespoke software solutions. Mainly dealing with insurance based systems/product integration.</p>
@@ -83,7 +83,7 @@ I maintained and added new products and functionality to the online ferry ticket
 
 <hr/>
 <h2>Friday Ad Ltd</h2>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> April 2008 <strong>-to-</strong> June 2008</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Apr 2008 <strong>-to-</strong> Jun 2008</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Application Developer</p>
 <h5>Overview</h5>
 <p style="font-size:0.80em;">Creating Windows desktop applications. I left this role due to a better job opportunity that was offered to me by Dynamic Technical Concepts Ltd.</p> 
@@ -103,7 +103,7 @@ I maintained and added new products and functionality to the online ferry ticket
   
 <hr/>
 <h2>Berkeley Alexander Ltd</h2>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 2006 <strong>-to-</strong> March 2008</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Nov 2006 <strong>-to-</strong> Mar 2008</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Systems Support Analyst / Programmer</p>
 <h5>Overview</h5>
 <p style="font-size:0.80em;">General insurance company serving hundreds of insurance agents across the UK. Using the built-in price comparison system, they can source insurance for their clients and receive a commission on purchase of a policy. I maintained and developed new features to the main website and also the insurance price comparison quote engine. I also plugged in new insurance products as they required careful integration into the quote engine.</p>
@@ -127,7 +127,7 @@ I maintained and added new products and functionality to the online ferry ticket
   
 <hr/>
 <h2>Attevo</h2>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> tbc <strong>-to-</strong> tbc</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed during:</strong> 2005</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Freelance C# Developer</p>
 <h5>Overview</h5>
 <p style="font-size:0.80em;">I.T. Consultancy firm based in the United States.<br>A work colleague from General Motors recommended me to them to help out on a part-time ASP.NET/C# project.</p>
@@ -146,9 +146,9 @@ I maintained and added new products and functionality to the online ferry ticket
   
 <hr/>
 <h2>GMAC Commercial Finance (General Motors)</h2>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> March 2001 <strong>-to-</strong> February 2006  (GMACCF - Subsidiary of General Motors - Acquired from Bank of New York)</p>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> January 1998 <strong>-to-</strong> March 2001 (Bank of New York - Acquired from Lloyds Bank Plc)</p>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> August 1989 <strong>-to-</strong> January 1998 (Internal Factors Ltd - Subsidiary of Lloyds Bank Plc)</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Mar 2001 <strong>-to-</strong> Feb 2006  (GMACCF - Subsidiary of General Motors - Acquired from Bank of New York)</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Jan 1998 <strong>-to-</strong> Mar 2001 (Bank of New York - Acquired from Lloyds Bank Plc)</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Aug 1989 <strong>-to-</strong> Jan 1998 (Internal Factors Ltd - Subsidiary of Lloyds Bank Plc)</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Analyst / Designer / Lead Programmer</p>
 <h5>Overview</h5>
 <p style="font-size:0.80em;">GMAC Commercial Finance (GMAC CF) is a subsidiary of GMAC Financial Services, a bank holding company with operations in North America, South America, Europe and Asia-Pacific. GMAC specializes in automotive finance, real estate finance, insurance, commercial finance and online banking. GMAC CF is one of the most trusted sources of capital for the middle-market businesses it serves.</p>
@@ -180,7 +180,7 @@ I maintained and added new products and functionality to the online ferry ticket
   
 <hr/>
 <h2>Souther Water Authority</h2>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> November 1987 <strong>-to-</strong> August 1989</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Nov 1987 <strong>-to-</strong> Aug 1989</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Accounts Clerk</p>
 <h5>Overview</h5>
 <p style="font-size:0.80em;">My first office job was at Southern Water in Worthing. Even though I was programming as a hobby I had no commercial experience at this time.</p>
