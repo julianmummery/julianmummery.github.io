@@ -13,14 +13,14 @@ Displayed in reverse chronological order: -
 <h2>Loria Consulting Ltd</h2>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Nov 2013 <strong>-to-</strong> Present</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> CRM Consultant / Developer</p>
-<h4>Overview</h4>
+<h3>Overview</h3>
 <p style="font-size:0.80em;">Loria Consulting are a registered Sage CRM Partner who provide B2B support / development and integration for on-premise Sage CRM.</p>
 <p style="font-size:0.80em;">My main duties are development, support and troubleshooting. Development varies from client to client as most projects require bespoke functionality added to their Sage CRM installation. This can include development using any of the following: - JavaScript, HTML, CSS, ASP.NET, VB.NET, C#, T-SQL, VBScript, JScript (ECMAScript).</p>
-<h4 style="margin-top: 0px">Examples of Work</h4> 
+<h3 style="margin-top: 0px">Examples of Work</h3> 
 <ul style="font-size:0.80em;">
   <li>None Available</li>
 </ul>
-<h4 style="margin-top: 0px">Duties and Responsibilities</h4> 
+<h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
 <ul style="font-size:0.80em;">
   <li>Bespoke C# and VB.NET desktop applications (WinForms)</li>
   <li>Creation of scalable website / portal and extranet solutions</li>
@@ -38,14 +38,14 @@ Displayed in reverse chronological order: -
 <h2>Direct Ferries Ltd</h2>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Sep 2012 <strong>-to-</strong> Nov 2013</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Senior Software Engineer</p>
-<h4>Overview</h4>
+<h3>Overview</h3>
 <p style="font-size:0.80em;">Ferry ticket price comparison and booking system.
 I maintained and added new products and functionality to the online ferry ticket booking service (ASP.NET/VB.NET/T-SQL).  The business generates revenue by making a commission on ‘ferry’ and ‘accommodation’ tickets purchased via the site.</p>
-<h4 style="margin-top: 0px">Examples of Work</h4>
+<h3 style="margin-top: 0px">Examples of Work</h3>
 <ul style="font-size:0.80em;">
   <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
 </ul>
-<h4 style="margin-top: 0px">Duties and Responsibilities</h4> 
+<h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
 <ul style="font-size:0.80em;">
   <li>Develop and maintain advanced web app controls (ASP.NET / VB.NET)</li>
   <li>Develop and maintain various websites/applications (ASP.NET / VB.NET)</li>
@@ -60,13 +60,13 @@ I maintained and added new products and functionality to the online ferry ticket
 <h2>Dynamic Technical Concepts Ltd</h2>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Jul 2008 <strong>-to-</strong> Sep 2012</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Senior Web / Applications Developer</p>
-<h4>Overview</h4>
+<h3>Overview</h3>
 <p style="font-size:0.80em;">A business that offered bespoke software solutions. Mainly dealing with insurance based systems/product integration.</p>
-<h4 style="margin-top: 0px">Examples of Work</h4>
+<h3 style="margin-top: 0px">Examples of Work</h3>
 <ul style="font-size:0.80em;">
   <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
 </ul>
-<h4 style="margin-top: 0px">Duties and Responsibilities</h4> 
+<h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
 <ul style="font-size:0.80em;">
   <li>Developing Web and Desktop applications using ASP.NET / VB.NET</li>
   <li>Creation of ‘Technical Specifications’</li>
@@ -85,13 +85,13 @@ I maintained and added new products and functionality to the online ferry ticket
 <h2>Friday Ad Ltd</h2>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Apr 2008 <strong>-to-</strong> Jun 2008</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Application Developer</p>
-<h4>Overview</h4>
+<h3>Overview</h3>
 <p style="font-size:0.80em;">Creating Windows desktop applications. I left this role due to a better job opportunity that was offered to me by Dynamic Technical Concepts Ltd.</p> 
-<h4 style="margin-top: 0px">Examples of Work</h4>
+<h3 style="margin-top: 0px">Examples of Work</h3>
 <ul style="font-size:0.80em;">
   <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
 </ul>
-<h4 style="margin-top: 0px">Duties and Responsibilities</h4> 
+<h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
 <ul style="font-size:0.80em;">
   <li>Design / create & maintain ASP.NET / VB.NET applications</li>
   <li>Design / create & maintain VB6 applications</li>
@@ -105,13 +105,13 @@ I maintained and added new products and functionality to the online ferry ticket
 <h2>Berkeley Alexander Ltd</h2>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Nov 2006 <strong>-to-</strong> Mar 2008</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Systems Support Analyst / Programmer</p>
-<h4>Overview</h4>
+<h3>Overview</h3>
 <p style="font-size:0.80em;">General insurance company serving hundreds of insurance agents across the UK. Using the built-in price comparison system, they can source insurance for their clients and receive a commission on purchase of a policy. I maintained and developed new features to the main website and also the insurance price comparison quote engine. I also plugged in new insurance products as they required careful integration into the quote engine.</p>
-<h4 style="margin-top: 0px">Examples of Work</h4>
+<h3 style="margin-top: 0px">Examples of Work</h3>
 <ul style="font-size:0.80em;">
   <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
 </ul>
-<h4 style="margin-top: 0px">Duties and Responsibilities</h4> 
+<h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
 <ul style="font-size:0.80em;">
   <li>Creation of ‘Technical Specifications’</li>
   <li>Create bespoke software applications using VB 6 / VB.NET</li>
@@ -129,13 +129,13 @@ I maintained and added new products and functionality to the online ferry ticket
 <h2>Attevo</h2>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed during:</strong> 2005</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Freelance C# Developer</p>
-<h4>Overview</h4>
+<h3>Overview</h3>
 <p style="font-size:0.80em;">I.T. Consultancy firm based in the United States.<br>A work colleague from General Motors recommended me to them to help out on a part-time ASP.NET/C# project.</p>
-<h4 style="margin-top: 0px">Examples of Work</h4>
+<h3 style="margin-top: 0px">Examples of Work</h3>
 <ul style="font-size:0.80em;">
   <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
 </ul>
-<h4 style="margin-top: 0px">Duties and Responsibilities</h4> 
+<h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
 <ul style="font-size:0.80em;">
   <li>Remote working</li>
   <li>Creating prototype / wireframe ASP.NET/C# Web Application pages</li>
@@ -150,15 +150,15 @@ I maintained and added new products and functionality to the online ferry ticket
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Jan 1998 <strong>-to-</strong> Mar 2001 (Bank of New York - Acquired from Lloyds Bank Plc)</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Aug 1989 <strong>-to-</strong> Jan 1998 (Internal Factors Ltd - Subsidiary of Lloyds Bank Plc)</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Analyst / Designer / Lead Programmer</p>
-<h4>Overview</h4>
+<h3>Overview</h3>
 <p style="font-size:0.80em;">GMAC Commercial Finance (GMAC CF) is a subsidiary of GMAC Financial Services, a bank holding company with operations in North America, South America, Europe and Asia-Pacific. GMAC specializes in automotive finance, real estate finance, insurance, commercial finance and online banking. GMAC CF is one of the most trusted sources of capital for the middle-market businesses it serves.</p>
 <p style="font-size:0.80em;">I started working on the I.T. Help Desk progressed from there to Computer Operator doing shift work looking after IBM Mainframe. Then over the years worked up from a Trainee Computer Programmer to an Analyst / Designer / Lead Programmer.  
 </p>
-<h4 style="margin-top: 0px">Examples of Work</h4> 
+<h3 style="margin-top: 0px">Examples of Work</h3> 
 <ul style="font-size:0.80em;">
   <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
 </ul>
-<h4 style="margin-top: 0px">Duties and Responsibilities</h4> 
+<h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
 <ul style="font-size:0.80em;">
   <li>Design / create & maintain ASP.NET / VB.NET web based applications / websites</li>
   <li>SQL Server & Informix SQL creation of stored procedures</li>
@@ -182,13 +182,13 @@ I maintained and added new products and functionality to the online ferry ticket
 <h2>Souther Water Authority</h2>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Nov 1987 <strong>-to-</strong> Aug 1989</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Accounts Clerk</p>
-<h4>Overview</h4>
+<h3>Overview</h3>
 <p style="font-size:0.80em;">My first office job was at Southern Water in Worthing. Even though I was programming as a hobby I had no commercial experience at this time.</p>
-<h4 style="margin-top: 0px">Examples of Work</h4> 
+<h3 style="margin-top: 0px">Examples of Work</h3> 
 <ul style="font-size:0.80em;">
   <li>No examples available.</li>
 </ul>
-<h4 style="margin-top: 0px">Duties and Responsibilities</h4> 
+<h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
 <ul style="font-size:0.80em;">
   <li>Replying to customers letters</li>
   <li>Dealing with the public on the telephone with account problems, change of address etc…</li>
@@ -200,13 +200,13 @@ I maintained and added new products and functionality to the online ferry ticket
 <h2>The Royal Navy</h2>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed during:</strong> 1987</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Junior Seaman (Missile Operator)</p>
-<h4>Overview</h4>
+<h3>Overview</h3>
 <p style="font-size:0.80em;">Military basic training. Left before active service due to being voluteered down a career path I did <strong>not</strong> want to take. That being underwater for up to six months of the year!</p> 
-<h4 style="margin-top: 0px">Examples of Work</h4> 
+<h3 style="margin-top: 0px">Examples of Work</h3> 
 <ul style="font-size:0.80em;">
   <li>No examples available.</li>
 </ul>
-<h4 style="margin-top: 0px">Duties and Responsibilities</h4> 
+<h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
 <ul style="font-size:0.80em;">
   <li>Fire Fighting</li>
   <li>Search and Rescue</li>
