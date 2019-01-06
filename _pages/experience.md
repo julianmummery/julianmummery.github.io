@@ -10,7 +10,7 @@ header:
 Displayed in reverse chronological order: -
 
 <hr/>
-<h2>Loria Consulting Ltd</h2>
+<h2>Loria Consulting Ltd.</h2>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Nov 2013 <strong>-to-</strong> Present</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> CRM Consultant / Developer</p>
 <h3>Overview</h3>
