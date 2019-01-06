@@ -34,7 +34,7 @@ Displayed in reverse chronological order: -
   <li>Maintaining records in the companies CRM system</li>
 </ul>
 
-<hr/>
+<hr/> 
 <h2>Direct Ferries Ltd</h2>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Sep 2012 <strong>-to-</strong> Nov 2013</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Senior Software Engineer</p>
