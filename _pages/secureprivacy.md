@@ -5,7 +5,7 @@ permalink: /secureprivacy/
 author_profile: false
 header: false
 sitemap: false
-masthead: false
+nav: false
 ---
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
 For more specific information about the businesses I have worked for along with details on some of the projects I have had the opportunity to be part of please see my <a href="https://julianmummery.github.io/experience/" target="_blank">Experience in Reverse Chronological Order</a>
