@@ -1,11 +1,11 @@
 ---
-layout: none
+layout: archive
 title: "Secure Privacy"
 permalink: /secureprivacy/
 author_profile: false
 sitemap: false
 header: 
-   image: "/assets/images/header-background.jpg" 
+   image: "/assets/images/secure-privacy-header-background.jpg" 
 ---
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
 For more specific information about the businesses I have worked for along with details on some of the projects I have had the opportunity to be part of please see my <a href="https://julianmummery.github.io/experience/" target="_blank">Experience in Reverse Chronological Order</a>
