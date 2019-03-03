@@ -1,6 +1,8 @@
 ---
 title: "Secure Privacy"
 permalink: /secureprivacy/
+author_profile: false
+sitemap: false
 header: 
    image: "/assets/images/secure-privacy-header-background.jpg"
 ---
