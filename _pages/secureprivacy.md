@@ -7,7 +7,7 @@ sitemap: false
 header: 
    image: "/assets/images/secure-privacy-header-background.jpg" 
 ---
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">jjjkkk
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">llllll
 For more specific information about the businesses I have worked for along with details on some of the projects I have had the opportunity to be part of please see my <a href="https://julianmummery.github.io/experience/" target="_blank">Experience in Reverse Chronological Order</a>
   
 <h2>Overview</h2>
