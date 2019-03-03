@@ -3,6 +3,7 @@ layout: single
 title: "Secure Privacy"
 permalink: /secureprivacy/
 author_profile: false
+menu: false
 sitemap: false
 header: 
    image: "/assets/images/secure-privacy-header-background.jpg"
