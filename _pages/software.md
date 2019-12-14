@@ -12,6 +12,6 @@ header:
 <h2>Sage CRM Tools</h2>
 <h5 style="padding-left:1em;">Entity Image Uploader</h5>
 
-<p>Changing entity images can be a pain as you have to resize them and place them in all the correct folders for it to work properly.</p>
-<p>Simply download and install on the Sage CRM Server (on premise only). Then use the tool to upload your new image <br> <a href="https://www.google.com" target="_blank">Download</a></p>
+<p style="font-size:0.80em;">Changing entity images can be a pain as you have to resize them and place them in all the correct folders for it to work properly.</p>
+<p style="font-size:0.80em;">Simply download and install on the Sage CRM Server (on premise only). Then use the tool to upload your new image <br> <a href="https://www.google.com" target="_blank">Download</a></p>
 
