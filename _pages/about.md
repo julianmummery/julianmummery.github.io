@@ -67,7 +67,7 @@ For more specific information about the businesses I have worked for along with 
 
 <h5 style="padding-left:1.3em;">Other</h5>
 <ul style="font-size:0.80em;">
-  <li>Android Studio</li>
+  <li>Android Studio</li> 
   <li>IntelliJ IDEA</li>
   <li>Microsoft Visual Studio</li>
   <li>Microsoft Team Foundation Server</li>
