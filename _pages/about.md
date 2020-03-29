@@ -34,6 +34,7 @@ For more specific information about the businesses I have worked for along with 
 <h2>Technical Skills</h2>
 <h5 style="padding-left:1.3em;">Programming Languages</h5>
 <ul style="font-size:0.80em;">
+  <li>Java 7/8 (2 Years)</li>
   <li>ASP.NET (14+ Years)</li>
   <li>VB.NET (14+ Years)</li>
   <li>C# (2+ Years)</li>  
@@ -66,9 +67,11 @@ For more specific information about the businesses I have worked for along with 
 
 <h5 style="padding-left:1.3em;">Other</h5>
 <ul style="font-size:0.80em;">
-  <li>Microsoft Visual Studio 2017/15/10/8/5</li>
+  <li>Android Studio</li>
+  <li>IntelliJ IDEA</li>
+  <li>Microsoft Visual Studio</li>
   <li>Microsoft Team Foundation Server</li>
-  <li>Microsoft SQL Server 2012/8/5</li>
+  <li>Microsoft SQL Server</li>
   <li>IIS</li>
   <li>GitHub</li>
   <li>SVN/Tortoise</li>
