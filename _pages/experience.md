@@ -22,7 +22,8 @@ Displayed in reverse chronological order: -
 </ul>
 <h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
 <ul style="font-size:0.80em;">
-  <li>Native Android Debelopment in Java</li>
+  <li>Java 7 / 8 Development</li>
+  <li>Native Android App Development using Android Studio</li>
   <li>Bespoke C# and VB.NET desktop applications (WinForms)</li>
   <li>Creation of scalable website / portal and extranet solutions</li>
   <li>SQL Server database programming</li>
