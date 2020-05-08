@@ -14,7 +14,7 @@ header:
 <ul style="font-size:0.80em;">
   <li>Secure Privacy 
   <br> 
-  <span style="font-size:6px;">Native Android App that directly interfaces with your customised Netgear router.</span>
+  <span style="font-size:0.70em;">Native Android App that directly interfaces with your customised Netgear router.</span>
   <br>     
   <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/secure-privacy.mp4?raw=true" target="_blank">Video</a> | 
   <a href="https://github.com/julianmummery/secure-privacy" target="_blank">Code</a></li>
