@@ -10,7 +10,7 @@ header:
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">Categorised by language in alphanumeric ascending order: -</p>
 
 <h2>Android</h2>
-<h5 style="padding-left:1em;">Sage CRM v7.3+</h5>
+<p style="padding-left:1em;">Native Android projects I have fully developed.</p>
 <ul style="font-size:0.80em;">
   <li>Secure Privacy 
   <br> 
