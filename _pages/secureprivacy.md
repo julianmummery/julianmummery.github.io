@@ -13,7 +13,7 @@ Secure Privacy Native Android App was developed to easily change the server loca
 
 <h2>Contents</h2>
 <ul style="font-size:0.80em;">
-  <li><a href="#1">Pre-requisites</a></li>
+  <li><a href="#1">Prerequisites</a></li>
   <li><a href="#2">Screenshots</a></li>
   <li><a href="#3">Video Demo</a></li>
   <li><a href="#4">Downloads</a></li>
@@ -21,16 +21,16 @@ Secure Privacy Native Android App was developed to easily change the server loca
 </ul>
 
 <div id="#1" />
-<p>1</p>
+<h4>Prerequisites</h4>
 
 <div id="#2" />
-<p>2</p>
+<h4>Screenshots</h4>
 
 <div id="#3" />
-<p>3</p>
+<h4>Video Demo</h4>
 
 <div id="#4" />
-<p>4</p>
+<h4>Downloads</h4>
 
 <div id="#5" />
-<p>5</p>
+<h4>Troubleshooting</h4>
