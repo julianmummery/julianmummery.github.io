@@ -24,17 +24,17 @@ Secure Privacy Native Android App was developed to easily change the server loca
 <hr>
 <br>
 
-<div id="#1" />
+<div id="1"></div>
 <h4>Prerequisites</h4>
 
-<div id="#2" />
+<div id="2"></div>
 <h4>Screenshots</h4>
 
-<div id="#3" />
+<div id="3"></div>
 <h4>Video Demo</h4>
 
-<div id="#4" />
+<div id="4"></div>
 <h4>Downloads</h4>
 
-<div id="#5" />
+<div id="5"></div>
 <h4>Troubleshooting</h4>
