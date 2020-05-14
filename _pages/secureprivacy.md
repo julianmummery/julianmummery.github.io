@@ -26,7 +26,7 @@ Secure Privacy Native Android App was developed to easily change the server loca
 
 <div id="1"></div>
 <h4>Prerequisites</h4>
-<p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
 The below prerequisites need to be in place in order for the Android App to work. I do not cover the routers configuration here as there are plenty of other online resources available that explains how to accomplish this.
 </p>
 <ul style="font-size:0.80em;">
@@ -39,12 +39,24 @@ The below prerequisites need to be in place in order for the Android App to work
 
 <div id="2"></div>
 <h4>Screenshots</h4>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
+...
+</p>
 
 <div id="3"></div>
 <h4>Video Demo</h4>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
+...
+</p>
 
 <div id="4"></div>
 <h4>Downloads</h4>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
+...
+</p>
 
 <div id="5"></div>
 <h4>Troubleshooting</h4>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
+...
+</p>
