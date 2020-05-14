@@ -16,8 +16,10 @@ header:
   <br> 
   <span style="font-size:0.70em;">Native Android App that directly interfaces with a customised Netgear Nighthawk R7000 router that is configured to use NordVPN as a VPN service. The purpose of this app was to create an easy way of changing the VPN's server country location without having to login to the router via a browser and make all the configuration changes that would be necessary to achive the same result.</span>
   <br>     
-  <a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/secure-privacy.mp4?raw=true" target="_blank">Video</a> | 
-  <a href="https://github.com/julianmummery/secure-privacy" target="_blank">Code</a></li>
+<a href="https://github.com/julianmummery/secure-privacy" target="_blank">Details</a> | 
+<a href="https://github.com/julianmummery/secure-privacy" target="_blank">Screen Shots</a> |     
+<a href="https://github.com/julianmummery/secure-privacy/blob/master/secure-privacy.mp4?raw=true" target="_blank">Video</a> | 
+<a href="https://github.com/julianmummery/secure-privacy" target="_blank">Download APK</a></li>
 </ul>
 
 <h2>JavaScript</h2>
