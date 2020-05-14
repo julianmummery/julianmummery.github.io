@@ -8,7 +8,7 @@ header:
    image: "/assets/images/secure-privacy-header-background.jpg" 
 ---
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-Secure Privacy Native Android App was developed to easily change the server location for NordVPN running on a Netgear R7000 router running DD-WRT v3.0-r35030M kongac. There are some strict pre-requisites that are required to be setup/configured in order for this to work, these are detailed in the below pre-requisites section.
+Secure Privacy Native Android App was developed to easily change the server location for NordVPN running on a Netgear R7000 router running DD-WRT v3.0-r35030M kongac. There are some strict pre-requisites that are required to be setup/configured in order for this to work, these are detailed in the below prerequisites section.
 </p>
 
 <h2>Contents</h2>
