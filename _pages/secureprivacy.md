@@ -20,6 +20,10 @@ Secure Privacy Native Android App was developed to easily change the server loca
   <li><a href="#5">Troubleshooting</a></li>  
 </ul>
 
+<br>
+<hr>
+<br>
+
 <div id="#1" />
 <h4>Prerequisites</h4>
 
