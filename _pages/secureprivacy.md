@@ -43,9 +43,9 @@ The below prerequisites need to be in place in order for the Android App to work
 </p>
 
 <div style="float: left;"><img style="height:520px; object-fit: contain;" alt="Secure Privacy Screenshot 1" src="/assets/images/Software-SecurePrivacy-1.png" /></div>
-<div style="float: left; padding-left: 15px;"><img style="height:520px; object-fit: contain;" alt="Secure Privacy Screenshot 2" src="/assets/images/Software-SecurePrivacy-2.png" /></div>
+<div style="float: left; padding-left: 55px;"><img style="height:520px; object-fit: contain;" alt="Secure Privacy Screenshot 2" src="/assets/images/Software-SecurePrivacy-2.png" /></div>
 <div style="float: left; padding-top: 15px;"><img style="height:520px; object-fit: contain;" alt="Secure Privacy Screenshot 3" src="/assets/images/Software-SecurePrivacy-3.png" /></div>
-<div style="float: left; padding-left: 15px; padding-top: 15px;"><img style="height:520px; object-fit: contain;" alt="Secure Privacy Screenshot 4" src="/assets/images/Software-SecurePrivacy-4.png" /></div>
+<div style="float: left; padding-left: 55px; padding-top: 15px;"><img style="height:520px; object-fit: contain;" alt="Secure Privacy Screenshot 4" src="/assets/images/Software-SecurePrivacy-4.png" /></div>
  
 
 <div id="3"></div>
