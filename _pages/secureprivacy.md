@@ -47,6 +47,8 @@ The below prerequisites need to be in place in order for the Android App to work
 <span style="float: left; padding-top: 10px;"><img style="height:500px; object-fit: contain;" alt="Secure Privacy Screenshot 3" src="/assets/images/Software-SecurePrivacy-3.png" /></span>
 <span style="float: left; padding-left: 10px; padding-top: 10px;"><img style="height:500px; object-fit: contain;" alt="Secure Privacy Screenshot 4" src="/assets/images/Software-SecurePrivacy-4.png" /></span>
 
+<br> 
+
 <div id="3"></div>
 <h4>Video Demo</h4>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
