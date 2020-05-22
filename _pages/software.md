@@ -31,6 +31,6 @@ header:
 
 <span style="float: left;"><img style="height:500px; object-fit: contain;" alt="Secure Privacy Screenshot 1" src="/assets/images/Software-SecurePrivacy-1.png" /></span>
 <span style="float: left; padding-left: 10px;"><img style="height:500px; object-fit: contain;" alt="Secure Privacy Screenshot 2" src="/assets/images/Software-SecurePrivacy-2.png" /></span>
-<span style="float: left;"><img style="height:500px; object-fit: contain;" alt="Secure Privacy Screenshot 3" src="/assets/images/Software-SecurePrivacy-3.png" /></span>
-<span style="float: left; padding-left: 10px;"><img style="height:500px; object-fit: contain;" alt="Secure Privacy Screenshot 4" src="/assets/images/Software-SecurePrivacy-4.png" /></span>
+<span style="float: left; padding-top: 10px;"><img style="height:500px; object-fit: contain;" alt="Secure Privacy Screenshot 3" src="/assets/images/Software-SecurePrivacy-3.png" /></span>
+<span style="float: left; padding-left: 10px; padding-top: 10px;"><img style="height:500px; object-fit: contain;" alt="Secure Privacy Screenshot 4" src="/assets/images/Software-SecurePrivacy-4.png" /></span>
 
