@@ -9,19 +9,6 @@ header:
 
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">Categorised by language in alphanumeric ascending order: -</p>
 
-<h2>Java</h2>
-<h5 style="padding-left:1em;">Android (Java 7)</h5>
-<ul style="font-size:0.80em;">
-  <li>Secure Privacy 
-  <br> 
-  <span style="font-size:0.70em;">Native Android App that directly interfaces with a customised Netgear Nighthawk R7000 router that is configured to use NordVPN as a VPN service. The purpose of this app was to create an easy way of changing the VPN's server country location without having to login to the router via a browser and make all the configuration changes that would be necessary to achive the same result.</span>
-  <br>     
-<a href="https://julianmummery.github.io/secureprivacy" target="_blank">Details</a> | 
-<a href="https://julianmummery.github.io/secureprivacy/#2" target="_blank">Screen Shots</a> |     
-<a href="https://julianmummery.github.io/secureprivacy/#3" target="_blank">Video</a> | 
-<a href="https://julianmummery.github.io/secureprivacy/#4" target="_blank">Download</a></li>
-</ul>
-
 <h2>JavaScript</h2>
 <h5 style="padding-left:1em;">Sage CRM v7.3+</h5>
 <ul style="font-size:0.80em;">
