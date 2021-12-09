@@ -9,7 +9,7 @@ header:
 
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">Categorised by language in alphanumeric ascending order: -</p>
 
-<h2>Native Android Apps</h2>
+<h2>JAVA (Native Android Apps)</h2>
 <h5 style="padding-left:1em;">Secure Privacy</h5>
 <ul style="font-size:0.80em;">
   <li>This app was developed to directly interface with a hardened NightHawk router running DD-WRT. The NightHawk router was setup with specific settings to allow connection via NordVPN's vast array of secure servers (NordVPN Subscription account required). The app allowed connection to the router and enabled easily changing the country/ip address dynamically. Other features were also added like the ability to restart the router or download and apply to the router the latest NordVPN Secure Server List. All servers are categorised by country and will be displayed in connection speed descending order.
