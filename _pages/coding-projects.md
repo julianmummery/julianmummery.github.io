@@ -15,7 +15,7 @@ header:
   <li>This app was developed to directly interface with a hardened Netgear Nighthawk router running DD-WRT. The Nighthawk router was setup with specific settings to allow connection via NordVPN's vast array of secure servers. The app allowed connection to the router and enabled easily changing the country/ip address dynamically. Other features were also added like the ability to restart the router or download and apply to the router the latest NordVPN Secure Server List. All servers are categorised by country and will be displayed in server load percentage ascending order. Choose your country and server and then apply the changes directly onto the router. All connected devices will then be automatically re-routed.
   <br> 
   <br>
-  Sorry, No demo available.
+<a href="https://julianmummery.github.io/secureprivacy" target="_blank">More Details...</a>
   </li>
 </ul>
 <h5 style="padding-left:1em;">Engineer Checkin and Reporting</h5>
@@ -45,3 +45,4 @@ header:
   <br> 
   <a href="https://github.com/julianmummery/nested-master-pages-example" target="_blank">Code</a></li>
 </ul>
+
