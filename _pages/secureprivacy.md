@@ -15,9 +15,6 @@ Secure Privacy Native Android App was developed to easily change the server loca
 <ul style="font-size:0.80em;">
   <li><a href="#1">Prerequisites</a></li>
   <li><a href="#2">Screenshots</a></li>
-  <li><a href="#3">Video Demo</a></li>
-  <li><a href="#4">Downloads</a></li>
-  <li><a href="#5">Troubleshooting</a></li>  
 </ul>
 
 <br>
@@ -38,31 +35,9 @@ The below prerequisites need to be in place in order for the Android App to work
 
 <div id="2"></div>
 <h4>Screenshots</h4>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-...
-</p>
-
 <div style="float: left;"><img style="height:520px; object-fit: contain;" alt="Secure Privacy Screenshot 1" src="/assets/images/Software-SecurePrivacy-1.png" /></div>
 <div style="float: left; padding-left: 70px;"><img style="height:520px; object-fit: contain;" alt="Secure Privacy Screenshot 2" src="/assets/images/Software-SecurePrivacy-2.png" /></div>
 <div style="float: left; padding-top: 35px; padding-bottom: 35px;"><img style="height:520px; object-fit: contain;" alt="Secure Privacy Screenshot 3" src="/assets/images/Software-SecurePrivacy-3.png" /></div>
 <div style="float: left; padding-left: 70px; padding-top: 35px; padding-bottom: 35px;"><img style="height:520px; object-fit: contain;" alt="Secure Privacy Screenshot 4" src="/assets/images/Software-SecurePrivacy-4.png" /></div>
  
-<br>
 
-<div id="3"></div>
-<h4>Video Demo</h4>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-...
-</p>
-
-<div id="4"></div>
-<h4>Downloads</h4>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-...
-</p>
-
-<div id="5"></div>
-<h4>Troubleshooting</h4>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-...
-</p>
