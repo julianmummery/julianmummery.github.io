@@ -40,5 +40,4 @@ The below prerequisites need to be in place in order for the Android App to work
 <div style="float: left; padding-top: 35px; padding-bottom: 35px;"><img style="height:520px; object-fit: contain;" alt="Secure Privacy Screenshot 3" src="/assets/images/Software-SecurePrivacy-3.png" /></div>
 <div style="float: left; padding-left: 70px; padding-top: 35px; padding-bottom: 35px;"><img style="height:520px; object-fit: contain;" alt="Secure Privacy Screenshot 4" src="/assets/images/Software-SecurePrivacy-4.png" /></div>
  
-<iframe width="420" height="345" src="https://www.youtube.com/embed/EGw2L2sMLuE?controls=0">
-</iframe>
+<a href="https://www.youtube.be/EGw2L2sMLuE" target="_blank">Watch a demo video here...</a>
