@@ -14,7 +14,7 @@ Secure Privacy Native Android App was developed to easily change the server loca
 <h2>Contents</h2>
 <ul style="font-size:0.80em;">
   <li><a href="#1">Prerequisites</a></li>
-  <li><a href="#2">Screenshots</a></li>
+  <li><a href="#2">Screenshots / Video</a></li>
 </ul>
 
 <br>
