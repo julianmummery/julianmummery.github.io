@@ -42,7 +42,6 @@ For more specific information about the businesses I have worked for along with 
   <li>HTML</li>  
   <li>CSS</li>
   <li>AJAX</li>
-  <li>WinForms</li>
   <li>SQL</li>
   <li>T-SQL</li>
   <li>VBScript</li>
@@ -54,7 +53,8 @@ For more specific information about the businesses I have worked for along with 
   <li>JScript (ECMA Script)</li>
   <li>QuickBASIC</li> 
   <li>VB6</li>
-  <li>Delphi</li>  
+  <li>Delphi (Pascal)</li>  
+  <li>AutoIt Scripting</li>  
 </ul>
 
 <h5 style="padding-left:1.3em;">Operating Systems</h5>
@@ -68,6 +68,7 @@ For more specific information about the businesses I have worked for along with 
 <ul style="font-size:0.80em;">
   <li>Android Studio</li> 
   <li>IntelliJ IDEA</li>
+  <li>WinForms</li>
   <li>Azure</li>
   <li>Visual Studio</li>
   <li>Team Foundation Server</li>
