@@ -1,5 +1,5 @@
 ---
-layout: secureprivacy
+layout: default
 title: "Fault Logger"
 permalink: /faultlogger/
 author_profile: false
