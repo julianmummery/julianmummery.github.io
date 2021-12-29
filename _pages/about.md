@@ -59,7 +59,7 @@ For more specific information about the businesses I have worked for along with 
 
 <h5 style="padding-left:1.3em;">Operating Systems</h5>
 <ul style="font-size:0.80em;">
-  <li>Microsoft Windows Server 2012/2008/2000/NT</li>
+  <li>Microsoft Windows Server</li>
   <li>Unix / Linux</li>
   <li>OS/2</li>
 </ul>
