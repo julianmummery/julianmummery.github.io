@@ -43,7 +43,7 @@ header:
 <ul style="font-size:0.80em;">
   <li>Ethical Business Directory
   <br> 
-  <a href="https://github.com/julianmummery/ethicalbusinessdirectory" target="_blank">Screenshots</a></li>  
+  <a href="https://github.com/julianmummery/ethicalbusinessdirectory" target="_blank">More Details...</a></li>  
   <li>Nested Master Pages 
   <br> 
   <a href="https://github.com/julianmummery/nested-master-pages-example" target="_blank">Code</a></li>
