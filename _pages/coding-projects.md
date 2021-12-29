@@ -20,7 +20,7 @@ header:
 </ul>
 <h5 style="padding-left:1em;">Engineer Checkin and Reporting</h5>
 <ul style="font-size:0.80em;">
-  <li>This app was developed to allow checkin and reporting services that can be synchronised with a backend SQL Server database whilst on the job.
+  <li>This app was developed to allow checkin and reporting services that can be synchronised with a backend SQL Server database whilst on the job. The back office system (Sage CRM) is then used to access these records. Uploaded signatures and photos can also be synchronised with the back office system to acknowledge a completed job by the engineer.
   <br>
   <br>
   Sorry, No demo available.
@@ -41,6 +41,9 @@ header:
 
 <h2>VB.NET</h2>
 <ul style="font-size:0.80em;">
+  <li>Ethical Business Directory
+  <br> 
+  <a href="https://github.com/julianmummery/???" target="_blank">Screenshots</a></li>  
   <li>Nested Master Pages 
   <br> 
   <a href="https://github.com/julianmummery/nested-master-pages-example" target="_blank">Code</a></li>
