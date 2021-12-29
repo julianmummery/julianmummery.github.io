@@ -1,5 +1,5 @@
 ---
-layout: secureprivacy
+layout: default
 title: "Ethical Business Directory"
 permalink: /ethicalbusinessdirectory/
 author_profile: false
