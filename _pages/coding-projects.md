@@ -41,9 +41,12 @@ header:
 
 <h2>VB.NET</h2>
 <ul style="font-size:0.80em;">
-  <li>Ethical Business Directory
+  <li>Ethical Business Directory (Website Application)
   <br> 
   <a href="https://julianmummery.github.io/ethicalbusinessdirectory" target="_blank">More Details...</a></li>  
+  <li>Fault Logger (Website Application)
+  <br> 
+  <a href="https://julianmummery.github.io/faultlogger" target="_blank">More Details...</a></li>   
   <li>Nested Master Pages 
   <br> 
   <a href="https://github.com/julianmummery/nested-master-pages-example" target="_blank">Code</a></li>
