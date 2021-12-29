@@ -33,6 +33,8 @@ Displayed in reverse chronological order: -
   <li>Involvement in the scoping and specification process, including on-site scoping sessions and subsequent documentation</li>
   <li>Installing and updating new and existing software installations</li>
   <li>Liaising with customers and business partners as required</li>
+  <li>Creation and maintenance of company Knowledgebase in Microsoft OneNote</li>
+  <li>Assist work colleagues with technical coding and configiration issues</li>
   <li>Maintaining records in the companies CRM system</li>
 </ul>
 
@@ -49,6 +51,8 @@ I maintained and added new products and functionality to the online ferry ticket
 </ul>
 <h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
 <ul style="font-size:0.80em;">
+  <li>Develop and maintain quote wizard for price comparison engine on main website (ASP.NET / VB.NET)</li>  
+  <li>Develop and maintain customers account area on main website (ASP.NET / VB.NET)</li>  
   <li>Develop and maintain advanced web app controls (ASP.NET / VB.NET)</li>
   <li>Develop and maintain various websites/applications (ASP.NET / VB.NET)</li>
   <li>Maintain SQL Server databases</li>
