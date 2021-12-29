@@ -9,9 +9,9 @@ For more specific information about the businesses I have worked for along with 
   
 <h2>Overview</h2>
 <ul style="font-size:0.80em;">
-  <li>IT Professional with over 25+ years of experience</li>
+  <li>IT Professional with over 30 years of experience</li>
   <li>Highly motivated, dependable trouble-shooter and problem-solver</li>
-  <li>Highly customer-focused and am committed to quality in every task</li>
+  <li>Customer-focused and am committed to quality in every task</li>
   <li>Valued worker who performs confidently and effectively under pressure and enjoys a good challenge</li>
   <li>Enthusiastic learner who swiftly grasps new concepts and technical skills</li>
   <li>Excellent communicator and good listener</li>
@@ -34,28 +34,27 @@ For more specific information about the businesses I have worked for along with 
 <h2>Technical Skills</h2>
 <h5 style="padding-left:1.3em;">Programming Languages</h5>
 <ul style="font-size:0.80em;">
-  <li>Java 7/8 (2 Years)</li>
-  <li>ASP.NET (14+ Years)</li>
-  <li>VB.NET (14+ Years)</li>
-  <li>C# (2+ Years)</li>  
-  <li>Java (2+ Years)</li>
-  <li>JavaScript (6+ Years)</li>
-  <li>HTML (15+ Years)</li>  
-  <li>CSS (15+ Years)</li>
-  <li>AJAX (4+ Years)</li>
-  <li>WinForms (14+ Years)</li>
-  <li>SQL (14+ Years)</li>
-  <li>T-SQL (14+ Years)</li>
-  <li>VBScript (15+ Years)</li>
-  <li>Centura/Gupta (5+ Years)</li>
-  <li>COBOL (5+ Years)</li>
-  <li>Informix 4GL (5+ Years)</li>
-  <li>XML (4+ Years)</li>
+  <li>Java 7/8</li>
+  <li>ASP.NET</li>
+  <li>VB.NET</li>
+  <li>C#</li>  
+  <li>JavaScript</li>
+  <li>HTML</li>  
+  <li>CSS</li>
+  <li>AJAX</li>
+  <li>WinForms</li>
+  <li>SQL</li>
+  <li>T-SQL</li>
+  <li>VBScript</li>
+  <li>Centura/Gupta</li>
+  <li>COBOL</li>
+  <li>Informix 4GL</li>
+  <li>XML/JSON</li>
   <li>InstallShield Scripting</li>
   <li>JScript (ECMA Script)</li>
-  <li>QuickBASIC (3+ Years)</li> 
-  <li>VB6 (3+ Years)</li>
-  <li>Delphi (3+ Years - non-commercial experience)</li>  
+  <li>QuickBASIC</li> 
+  <li>VB6</li>
+  <li>Delphi</li>  
 </ul>
 
 <h5 style="padding-left:1.3em;">Operating Systems</h5>
@@ -69,9 +68,10 @@ For more specific information about the businesses I have worked for along with 
 <ul style="font-size:0.80em;">
   <li>Android Studio</li> 
   <li>IntelliJ IDEA</li>
-  <li>Microsoft Visual Studio</li>
-  <li>Microsoft Team Foundation Server</li>
-  <li>Microsoft SQL Server</li>
+  <li>Azure</li>
+  <li>Visual Studio</li>
+  <li>Team Foundation Server</li>
+  <li>SQL Server</li>
   <li>IIS</li>
   <li>GitHub</li>
   <li>SVN/Tortoise</li>
@@ -81,8 +81,8 @@ For more specific information about the businesses I have worked for along with 
   <li>Microsoft Visual Basic 6</li>
   <li>Centura Team Developer</li>
   <li>Microsoft Source Safe</li>
-  <li>Photoshop CS5/4</li>
-  <li>Flash CS5/4</li>
+  <li>Photoshop</li>
+  <li>Flash</li>
   <li>InstallShield 7/5.5</li>  
   <li>Microsoft Office / Visio</li>  
   <li>Unix / Linux VI Editor</li>   
