@@ -1,5 +1,5 @@
 ---
-layout: secureprivacy
+layout: archive
 title: "Fault Logger"
 permalink: /faultlogger/
 author_profile: false
