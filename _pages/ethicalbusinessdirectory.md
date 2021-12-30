@@ -27,12 +27,7 @@ The Ethical Business Directory was developed ...
 </p>
 <ul style="font-size:0.80em;">
   <li>...</li>
-  <li>...</li>
-  <li>...</li>  
 </ul>
 
 <div id="2"></div>
 <h4>Screenshots</h4>
-<div style="float: left;"><img style="height:520px; object-fit: contain;" alt="Ethical Business Directory Screenshot 1" src="/assets/images/abc.png" /></div>
- 
-<a href="https://youtu.be/EGw2L2sMLuE" target="_blank">Watch a demo video here...</a>
