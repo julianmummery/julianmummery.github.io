@@ -1,5 +1,5 @@
 ---
-layout: secureprivacy
+layout: archive
 title: "Secure Privacy"
 permalink: /secureprivacy/
 author_profile: false
