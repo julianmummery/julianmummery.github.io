@@ -5,7 +5,7 @@ permalink: /ethicalbusinessdirectory/
 author_profile: false
 sitemap: false
 header: 
-   image: "/assets/images/ethical-business-directory-header-background.png" 
+   image: "/assets/images/ethical-business-directory-header-background.jpg" 
 ---
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
 The Ethical Business Directory was developed ...
