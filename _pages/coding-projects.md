@@ -47,8 +47,5 @@ header:
   <li>Fault Logger (Website Application)
   <br> 
   <a href="https://julianmummery.github.io/faultlogger" target="_blank">More Details...</a></li>   
-  <li>Nested Master Pages 
-  <br> 
-  <a href="https://github.com/julianmummery/nested-master-pages-example" target="_blank">Code</a></li>
 </ul>
 
