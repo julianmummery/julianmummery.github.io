@@ -5,7 +5,7 @@ permalink: /faultlogger/
 author_profile: false
 sitemap: false
 header: 
-   image: "/assets/images/fault-logger-header-background.png" 
+   image: "/assets/images/faultlogger-header-background.png" 
 ---
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
 The Ethical Business Directory was developed ...
