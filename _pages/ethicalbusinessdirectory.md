@@ -96,10 +96,16 @@ The Ethical Business Directory was developed ...
 <div id="1"></div>
 <h4>Details</h4>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-...
+Ethical Business Directory was created to help job seekers find ethical businesses that reply to all job applicants.
 </p>
 <ul style="font-size:0.80em;">
-  <li>...</li>
+    <li>Free company listing on database</li>
+    <li>Searchable database aimed to help Job seekers</li>
+    <li>Option for companies to pay for emails to be sent to job applicants</li>
+    <li>Paid advertising on home page</li>
+    <li>Community</li>
+    <li>Free CV templates</li>
+    <li>Free Cover Letter templates</li>
 </ul>
 
 <div id="2"></div>
@@ -108,23 +114,35 @@ The Ethical Business Directory was developed ...
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 5</div>
   <img src="/assets/slideshows/ethicalbusinessdirectory/slide-1.png" style="width:100%">
-  <div class="text">Caption Text</div>
+  <div class="text"></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
+  <div class="numbertext">2 / 5</div>
   <img src="/assets/slideshows/ethicalbusinessdirectory/slide-2.png" style="width:100%">
-  <div class="text">Caption Two</div>
+  <div class="text"></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">3 / 5</div>
   <img src="/assets/slideshows/ethicalbusinessdirectory/slide-3.png" style="width:100%">
-  <div class="text">Caption Three</div>
+  <div class="text"></div>
+</div>
+  
+<div class="mySlides fade">
+  <div class="numbertext">4 / 5</div>
+  <img src="/assets/slideshows/ethicalbusinessdirectory/slide-4.png" style="width:100%">
+  <div class="text"></div>
 </div>
 
+<div class="mySlides fade">
+  <div class="numbertext">5 / 5</div>
+  <img src="/assets/slideshows/ethicalbusinessdirectory/slide-5.png" style="width:100%">
+  <div class="text"></div>
+</div>
+  
 </div>
 <br>
 
@@ -132,6 +150,8 @@ The Ethical Business Directory was developed ...
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span>   
 </div>
 
 <script>
