@@ -31,7 +31,37 @@ For more specific information about the businesses I have worked for along with 
 
 <hr/>
 
-<h2>Technical Skills</h2>
+<h2>Main Skillsets</h2>
+<h5 style="padding-left:1.3em;">Frontend Development</h5>
+<ul style="font-size:0.80em;">
+    <li>Windows Desktop Applications using .NET WinForms (Client Server & Standalone)</li>  
+    <li>Web Applications / Websites using ASP.NET</li>
+</ul>
+<h5 style="padding-left:1.3em;">Backend Deveopment</h5>
+<ul style="font-size:0.80em;">
+    <li>Windows Services using .NET (C#/VB)</li>  
+    <li>Batch Scripts using VBScript & DOS Batch Script</li>
+    <li>SQL Server Stored Procedures (T-SQL)</li>  
+    <li>SQL Server Triggers / Functions</li>
+    <li>SQL Server Maintenance Plans</li>  
+    <li>SQL Server Jobs</li>  
+</ul>    
+<h5 style="padding-left:1.3em;">Mobile Development</h5>
+<ul style="font-size:0.80em;">
+    <li>Native Android Apps</li>  
+</ul> 
+<h5 style="padding-left:1.3em;">Troubleshooting</h5>|
+<ul style="font-size:0.80em;">
+    <li>Software Bugs</li>  
+    <li>Server Performance</li>
+</ul>
+<h5 style="padding-left:1.3em;">Documentation</h5>|
+<ul style="font-size:0.80em;">
+    <li>Functional Specifications</li>  
+    <li>Knowledgebases</li>
+</ul>
+
+<h2>Additional Technical Skills</h2>
 <h5 style="padding-left:1.3em;">Programming Languages</h5>
 <ul style="font-size:0.80em;">
   <li>Java 7/8</li>
