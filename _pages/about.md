@@ -61,6 +61,8 @@ For more specific information about the businesses I have worked for along with 
     <li>Knowledgebases</li>
 </ul>
 
+<hr/>
+
 <h2>Additional Technical Skills</h2>
 <h5 style="padding-left:1.3em;">Programming Languages</h5>
 <ul style="font-size:0.80em;">
