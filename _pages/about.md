@@ -31,7 +31,7 @@ For more specific information about the businesses I have worked for along with 
 
 <hr/>
 
-<h2>Main Skillsets</h2>
+<h2>Main Skill Sets</h2>
 <h5 style="padding-left:1.3em;">Frontend Development</h5>
 <ul style="font-size:0.80em;">
     <li>Windows Desktop Applications using .NET WinForms (Client Server & Standalone)</li>  
