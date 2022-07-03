@@ -50,12 +50,12 @@ For more specific information about the businesses I have worked for along with 
 <ul style="font-size:0.80em;">
     <li>Native Android Apps</li>  
 </ul> 
-<h5 style="padding-left:1.3em;">Troubleshooting</h5>|
+<h5 style="padding-left:1.3em;">Troubleshooting</h5>
 <ul style="font-size:0.80em;">
     <li>Software Bugs</li>  
     <li>Server Performance</li>
 </ul>
-<h5 style="padding-left:1.3em;">Documentation</h5>|
+<h5 style="padding-left:1.3em;">Documentation</h5>
 <ul style="font-size:0.80em;">
     <li>Functional Specifications</li>  
     <li>Knowledgebases</li>
