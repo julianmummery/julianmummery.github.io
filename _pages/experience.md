@@ -174,6 +174,7 @@ I maintained and added new products and functionality to the online ferry ticket
   <li>Creation of ‘Technical Specifications’</li>
   <li>Assist work colleagues with problems</li>
   <li>Create and maintain Test / QA and Production overnight schedules</li>
+  <li>SSRS Reports</li>
   <li>On-call for overnight production failures</li>
   <li>Report to IT Manager on load capacity and general admin</li>
   <li>Create and maintain InstallShield projects</li>
