@@ -100,7 +100,32 @@ The Ethical Business Directory was developed ...
 Faultlogger was created to help record and track software bugs, faults & issues.
 </p>
 <ul style="font-size:0.80em;">
-    <li>...</li>
+    <li>Unlimited Users</li>                                               
+    <li>Simple to use Interface</li>                        
+    <li>Quick and Easy</li>                                                
+    <li>Add Faults</li>
+    <li>Edit Faults</li>
+    <li>Fault Allocation</li>                        
+    <li>File Attachments</li>  
+    <li>Search Facility</li>
+    <li>Customizable Profile</li>         
+    <li>Administrators can Customize:</li>
+        <li style="margin-left:30px;">Departments</li>
+        <li style="margin-left:30px;">Categories</li>
+        <li style="margin-left:30px;">Priorities</li>                           
+        <li style="margin-left:30px;">User Maintenance</li>
+        <li style="margin-left:30px;">Company Profile</li>
+    <li>Email Notification</li>                        
+    <li>User Profile</li>
+    <li>Userful for:</li>
+        <li style="margin-left:30px;">Faults</li>
+        <li style="margin-left:30px;">Software Bugs</li>
+        <li style="margin-left:30px;">Change Requests</li>                           
+        <li style="margin-left:30px;">Putlives</li>
+        <li style="margin-left:30px;">Testing</li>
+        <li style="margin-left:30px;">Project History</li>
+        <li style="margin-left:30px;">Time Management</li>
+        <li style="margin-left:30px;">Determining Future Project Timescales</li>
 </ul>
 
 <div id="2"></div>
