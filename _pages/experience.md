@@ -42,7 +42,6 @@ Displayed in reverse chronological order: -
   <li>Maintaining records in the companies CRM system</li>
   <li>Project Management</li>   
   <li>Quoting customers for bespoke work and consultancy services</li>  
-  <li>Maintaining the internal Knowledgebase</li>  
   <li>Assisting intenal staff with technical issues</li>  
 </ul>
 
