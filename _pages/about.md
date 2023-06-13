@@ -131,4 +131,5 @@ For more specific information about the businesses I have worked for along with 
   <li>Penetration Testing for Web Applications</li>
   <li>Ramp / Load Testing for Web Applications</li>  
   <li>Cryptocurrencies / Blockchain Development</li>  
+  <li><a href="https://www.youtube.com/channel/UCt7FGXDKZrT3jXvY7k1Yltw" target="_blank" style="color: green;">YouTube Channel - Hidden in AI</a> - Hidden Object Games using AI generated images.</li>  
 </ul>
