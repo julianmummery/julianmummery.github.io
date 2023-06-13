@@ -82,7 +82,7 @@ img {vertical-align: middle;}
 </style>
 
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-Fault Logger is a rapid entry web application for logging software faults / bug / feature requests.
+Fault Logger is a rapid entry web application for logging software faults / bugs / feature requests.
 </p>
 
 <h2>Contents</h2>
