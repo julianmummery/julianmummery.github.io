@@ -20,7 +20,7 @@ header:
 </ul>
 <h5 style="padding-left:1em;">Engineer Checkin and Reporting</h5>
 <ul style="font-size:0.80em;">
-  <li>This app was developed to allow checkin and reporting services that can be synchronised with a backend SQL Server database whilst on the job. The back office system (Sage CRM) is then used to access these records. Uploaded signatures and photos can also be synchronised with the back office system to acknowledge a completed job by the engineer.
+  <li>This app was developed to allow engineer's to check-in to their jobs and access reports and documents that can be synchronised with a backend SQL Server database whilst on the job. The back office system (Sage CRM) is then used to access these records. Uploaded signatures and photos can also be synchronised with the back office system to acknowledge a completed job by the engineer. Utilising the Sage SData2.0 API to transfer data both ways. The data stored on the device is stored locally in an SQLite database.
   <br>
   <br>
   Sorry, No demo available.
