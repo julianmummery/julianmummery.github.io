@@ -16,18 +16,21 @@ Displayed in reverse chronological order: -
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> CRM Consultant / Developer</p>
 <h3>Overview</h3>
 <p style="font-size:0.80em;">Loria Consulting are a registered Sage CRM Partner who provide B2B support / development and integration for on-premise Sage CRM.</p>
-<p style="font-size:0.80em;">My main duties are development, support and troubleshooting. Development varies from client to client as most projects require bespoke functionality added to their Sage CRM installation. This can include development using any of the following: - JavaScript, HTML, CSS, ASP.NET, VB.NET, C#, T-SQL, VBScript, JScript (ECMAScript).</p>
+<p style="font-size:0.80em;">My main duties are development, database administration, support and troubleshooting. Development varies from client to client as most projects require bespoke functionality added to their Sage CRM implementation. This can include development using any of the following: - JavaScript, HTML, CSS, ASP.NET, VB.NET, C#, T-SQL, Triggers, VBScript, JScript (ECMAScript).</p>
+<p style="font-size:0.80em;">Loria is now a proud member of the <a title="Innov8 Technology Group" href="https://www.innov8.co.uk/" target="_blank" style="color: green;">Innov8 Technology Group</a>, a fellow leading Sage Business Partner and technology provider.</p>
 <h3 style="margin-top: 0px">Examples of Work</h3> 
 <ul style="font-size:0.80em;">
   <li>None Available</li>
 </ul>
 <h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
-<ul style="font-size:0.80em;">
-  <li>Java 7 / 8 Development</li>
+<ul style="font-size:0.80em;">  
   <li>Native Android App Development using Android Studio</li>
+  <li>Java 7 / 8 Development</li>
   <li>Bespoke C# and VB.NET desktop applications (WinForms)</li>
+  <li>Bespoke C# and VB.NET desktop applications (WinForms)</li>  
   <li>Creation of scalable website / portal and extranet solutions</li>
   <li>SQL Server database programming</li>
+  <li>Database Administration</li>    
   <li>Live environment troubleshooting, tracing and debugging</li>
   <li>Provide coding and configuration skills to deliver bespoke software solutions</li>
   <li>Providing 3rd line software and server support to our partners and clients</li> 
@@ -37,6 +40,10 @@ Displayed in reverse chronological order: -
   <li>Creation and maintenance of company Knowledgebase in Microsoft OneNote</li>
   <li>Assist work colleagues with technical coding and configiration issues</li>
   <li>Maintaining records in the companies CRM system</li>
+  <li>Project Management</li>   
+  <li>Quoting customers for bespoke work and consultancy services</li>  
+  <li>Maintaining the internal Knowledgebase</li>  
+  <li>Assisting intenal staff with technical issues</li>  
 </ul>
 
 <hr/> 
