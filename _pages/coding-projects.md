@@ -41,10 +41,13 @@ header:
 
 <h2>VB.NET</h2>
 <ul style="font-size:0.80em;">
-  <li>Ethical Business Directory (Website Application)
+  <li>Global Anomaly Project (Web Application)
+  <br> 
+  <a href="https://julianmummery.github.io/globalanomalyproject" target="_self">More Details...</a></li> 
+  <li>Ethical Business Directory (Web Application)
   <br> 
   <a href="https://julianmummery.github.io/ethicalbusinessdirectory" target="_self">More Details...</a></li>  
-  <li>Fault Logger (Website Application)
+  <li>Fault Logger (Web Application)
   <br> 
   <a href="https://julianmummery.github.io/faultlogger" target="_self">More Details...</a></li>   
 </ul>
