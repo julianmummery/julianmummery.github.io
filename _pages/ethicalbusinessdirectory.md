@@ -87,7 +87,7 @@ The Ethical Business Directory is a list of businesses that will always reply to
 <h2>Contents</h2>
 <ul style="font-size:0.80em;">
   <li><a href="#1">Details</a></li>
-  <li><a href="#2">Screenshots / Video</a></li>
+  <li><a href="#2">Screenshots</a></li>
 </ul>
 
 <br>
