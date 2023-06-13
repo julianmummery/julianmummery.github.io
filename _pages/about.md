@@ -24,7 +24,7 @@ For more specific information about the businesses I have worked for along with 
 <p style="font-size:0.80em; margin-top:0;">I have a keen passion for technology, especially programming since a very young age.</p>
 <p style="font-size:0.80em; margin-top:0;">Programming all started for me when I taught myself AMOS on the Amiga and then progressed to creating amateur games on the ZX Spectrum 48k and the BBC Model B during the mid-eighties.</p>
 <p style="font-size:0.80em; margin-top:0;">During 1990 I got my first opportunity to be part of a computer help desk team looking after around four hundred staff. This soon progressed to a Mainframe Computer Operator role working twelve hour shifts and which involved monitoring the overnight batch jobs which in-turn produced scheduled departmental reports.</p>
-<p style="font-size:0.80em; margin-top:0;">Commercial programming started for me during 1992 when I was trained as a Mainframe COBOL programmer. After several years the business moved to Open SYstems and this gave me the opportunity to cross-train into Microfocus COBOL (GUI) and Microfocus 4GL (Batch) programming.</p>
+<p style="font-size:0.80em; margin-top:0;">Commercial programming started for me during 1992 when I was trained as a Mainframe COBOL programmer. After several years the business moved to Open Systems and this gave me the opportunity to cross-train into Microfocus COBOL (GUI) and Microfocus 4GL (Batch) programming.</p>
 <p style="font-size:0.80em; margin-top:0;">Not long after the .NET Framework 1.1 was made available by Microsoft back in April 2003 I was again cross-trained to use ASP.NET / VB.NET which we used to create various Web Applications / Customer Portals and Internal Systems.</p>
 <p style="font-size:0.80em; margin-top:0;">This was just the beginning for me and along the way I have acquired numerous skills working in I.T.</p>
 <p style="font-size:0.80em; margin-top:0;">You can view my other <strong>Technical Skills</strong> below: -</p>
@@ -98,6 +98,7 @@ For more specific information about the businesses I have worked for along with 
 
 <h5 style="padding-left:1.3em;">Other</h5>
 <ul style="font-size:0.80em;">
+  <li>Database Administration / Design</li>  
   <li>Android Studio</li> 
   <li>IntelliJ IDEA</li>
   <li>WinForms</li>
@@ -111,6 +112,7 @@ For more specific information about the businesses I have worked for along with 
   <li>Redgate Tools</li>
   <li>MySQL</li>
   <li>Sage CRM</li>
+  <li>Sage 200 Integration with Sage CRM</li>
   <li>Microsoft Visual Basic 6</li>
   <li>Centura Team Developer</li>
   <li>Microsoft Source Safe</li>
@@ -119,5 +121,14 @@ For more specific information about the businesses I have worked for along with 
   <li>InstallShield 7/5.5</li>  
   <li>Microsoft Office / Visio</li>  
   <li>Unix / Linux VI Editor</li>   
-  <li>Trello</li>
+  <li>Trello</li>  
+</ul>
+
+<h5 style="padding-left:1.3em;">Personal Interests / non-commercial</h5>
+<ul style="font-size:0.80em;">
+  <li>AI Prompt Engineering</li>
+  <li>Cryptography</li>
+  <li>Penetration Testing for Web Applications</li>
+  <li>Ramp / Load Testing for Web Applications</li>  
+  <li>Cryptocurrencies / Blockchain Development</li>  
 </ul>
