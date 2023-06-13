@@ -82,7 +82,7 @@ img {vertical-align: middle;}
 </style>
 
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-The Ethical Business Directory was developed ...
+Fault Logger is a rapid entry web application for logging software faults / bug / feature requests.
 </p>
 
 <h2>Contents</h2>
@@ -97,7 +97,7 @@ The Ethical Business Directory was developed ...
 <div id="1"></div>
 <h4>Details</h4>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-Faultlogger was created to help record and track software bugs, faults & issues.
+Fault Logger was created to help record and track software bugs, faults & issues.
 </p>
 <ul style="font-size:0.80em;">
     <li>Unlimited Users</li>                                               

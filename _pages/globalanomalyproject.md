@@ -82,9 +82,9 @@ img {vertical-align: middle;}
 
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
 The Global Anomaly Project Hub's mission is to catalogue strange anomalous events that take place anywhere on Earth or it's surrounding environment.
-<br>
+<br><br>
 The project will be covering all types of anomalous events that include Animal Mutilations, Cryptids, Ghosts & Hauntings, UFO & Alien Encounters and anything that we deem related.
-<br>
+<br><br>
 The main driver of the research tool is the interactive map. The map can be used to find correlations between events, also a usefule tool for researching the subject matter further.
 </p>
 
