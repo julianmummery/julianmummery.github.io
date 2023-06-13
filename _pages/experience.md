@@ -12,7 +12,7 @@ Displayed in reverse chronological order: -
 <hr/>
 <h2>Loria Consulting Ltd</h2>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Nov 2013 <strong>-to-</strong> Present</p>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0; color: red;"><strong>Note:</strong> <a href="https://www.innov8.co.uk/news/loria-consulting-ltd-becomes-latest-addition-innov8-group" target="_blank">Part of Innov8 Group since 1st May 2023</a> <strong>-to-</strong> Present</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0; color: green; font-size: small;"><strong>Note:</strong> <a href="https://www.innov8.co.uk/news/loria-consulting-ltd-becomes-latest-addition-innov8-group" target="_blank" style="color: green;">Part of Innov8 Group since 1st May 2023</a></p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> CRM Consultant / Developer</p>
 <h3>Overview</h3>
 <p style="font-size:0.80em;">Loria Consulting are a registered Sage CRM Partner who provide B2B support / development and integration for on-premise Sage CRM.</p>
