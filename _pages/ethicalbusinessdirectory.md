@@ -81,7 +81,7 @@ img {vertical-align: middle;}
 </style>
 
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-The Ethical Business Directory was developed ...
+The Ethical Business Directory is a list of businesses that will always reply to your job applications. Generally when someone applies for a position within a company they will only be informed if they have been shortlisted for an interview. This is not the case for any Ethical Business. The businesses that are listed on our database vow that they will always get back to you, whether you are successful or not. It is only ethical that you are informed either way.
 </p>
 
 <h2>Contents</h2>
