@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Global Anomaly Project"
-permalink: /gloablanomalyproject/
+permalink: /globalanomalyproject/
 author_profile: false
 sitemap: false
 header: 
@@ -81,7 +81,7 @@ img {vertical-align: middle;}
 </style>
 
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-The Ethical Business Directory was developed ...
+The Gloabl Anomaly Project was developed ...
 </p>
 
 <h2>Contents</h2>
