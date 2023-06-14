@@ -41,6 +41,9 @@ header:
 
 <h2>VB.NET</h2>
 <ul style="font-size:0.80em;">
+  <li>Server Canary (Web Application)
+  <br> 
+  <a href="https://julianmummery.github.io/servercanary" target="_self">More Details...</a></li> 
   <li>Global Anomaly Project (Web Application)
   <br> 
   <a href="https://julianmummery.github.io/globalanomalyproject" target="_self">More Details...</a></li> 
