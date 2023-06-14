@@ -81,7 +81,9 @@ img {vertical-align: middle;}
 </style>
 
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-Server Canary is ...
+Server Canary monitors your server(s) and notifies any assigned contacts as soon as we detect that your server is unresponsive.
+This could be useful for when your website becomes unreachable on the internet.
+Getting notified as soon as possible, so that you can take action, which can be misson critical for your business!
 </p>
 
 <h2>Contents</h2>
@@ -119,11 +121,14 @@ Types of data / anomalies covered are: -
 
 <div class="slideshow-container">
 
-<div class="mySlides fade"><div class="numbertext">1 / 5</div><img src="/assets/slideshows/gap/slide-1.png" style="width:100%"><div class="text"></div></div>
-<div class="mySlides fade"><div class="numbertext">2 / 5</div><img src="/assets/slideshows/gap/slide-2.png" style="width:100%"><div class="text"></div></div>
-<div class="mySlides fade"><div class="numbertext">3 / 5</div><img src="/assets/slideshows/gap/slide-3.png" style="width:100%"><div class="text"></div></div>
-<div class="mySlides fade"><div class="numbertext">4 / 5</div><img src="/assets/slideshows/gap/slide-4.png" style="width:100%"><div class="text"></div></div>
-<div class="mySlides fade"><div class="numbertext">5 / 5</div><img src="/assets/slideshows/gap/slide-5.png" style="width:100%"><div class="text"></div></div>
+<div class="mySlides fade"><div class="numbertext">1 / 8</div><img src="/assets/slideshows/servercanary/slide-1.png" style="width:100%"><div class="text"></div></div>
+<div class="mySlides fade"><div class="numbertext">2 / 8</div><img src="/assets/slideshows/servercanary/slide-2.png" style="width:100%"><div class="text"></div></div>
+<div class="mySlides fade"><div class="numbertext">3 / 8</div><img src="/assets/slideshows/servercanary/slide-3.png" style="width:100%"><div class="text"></div></div>
+<div class="mySlides fade"><div class="numbertext">4 / 8</div><img src="/assets/slideshows/servercanary/slide-4.png" style="width:100%"><div class="text"></div></div>
+<div class="mySlides fade"><div class="numbertext">5 / 8</div><img src="/assets/slideshows/servercanary/slide-5.png" style="width:100%"><div class="text"></div></div>
+<div class="mySlides fade"><div class="numbertext">6 / 8</div><img src="/assets/slideshows/servercanary/slide-6.png" style="width:100%"><div class="text"></div></div>
+<div class="mySlides fade"><div class="numbertext">7 / 8</div><img src="/assets/slideshows/servercanary/slide-7.png" style="width:100%"><div class="text"></div></div>
+<div class="mySlides fade"><div class="numbertext">8 / 8</div><img src="/assets/slideshows/servercanary/slide-8.png" style="width:100%"><div class="text"></div></div>
 
 </div>
 

@@ -82,7 +82,18 @@ img {vertical-align: middle;}
 </style>
 
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-Fault Logger is a rapid entry web application for logging software faults / bugs / feature requests.
+The Fault Logger concept was created by Julian Mummery in June 2008.
+<br><br>
+Fault Logger is a free online bug / defect / issue / fault logger (also known as a bugtracker). FaultLogger.com is constantly striving to create the ultimate online bug tracker system.
+<br><br>
+I originally created a piece of client / server software called 'Error Logger' which recorded Bugs / Errors / Faults. It was also used to track system 'Change Requests' and 'Putlive Requests'.
+<br><br>
+This was used by:
+<ul style="font-size:0.80em;">
+  <li>The Bank of New York</li>
+  <li>International Factors - a subsidiary of Lloyds / TSB Bank</li>
+  <li>GMAC Commercial Finance (GMAC CF) - a subsidiary of GMAC Financial Services</li>  
+</ul>
 </p>
 
 <h2>Contents</h2>
