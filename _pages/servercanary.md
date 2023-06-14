@@ -82,7 +82,9 @@ img {vertical-align: middle;}
 
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
 Server Canary monitors your server(s) and notifies any assigned contacts as soon as we detect that your server is unresponsive.
+<br><br>
 This could be useful for when your website becomes unreachable on the internet.
+<br><br>
 Getting notified as soon as possible, so that you can take action, which can be misson critical for your business!
 </p>
 
@@ -98,22 +100,21 @@ Getting notified as soon as possible, so that you can take action, which can be 
 <div id="1"></div>
 <h4>Details</h4>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">
-The Global Anomaly Project Hub is a place where people can report / analyse data on all manner of anomalous events.
-Types of data / anomalies covered are: - 
-- Animal Mutilations 
-- Cryptids 
-- Ghosts & Hauntings 
-- Military Bases 
-- Nuclear Facilities 
-- UFO & Alien Encounters 
-- Urban Legends 
+Server Canary monitors your server(s) and notifies you when unavailable.
+<br><br>
+Here is a list of it's features / functionality: - 
 </p>
 <ul style="font-size:0.80em;">
     <li>Free to use</li>
-    <li>Filterable data to narrow down results</li>
-    <li>Ability to add you own anomalous event</li>
-    <li>Forum to encourage discussions and to bring community togther</li>
-    <li>Merchandise</li>
+    <li>Upgradable services for faster response times</li>
+	<li>Overview</li>
+    <li>Add / Edit Schedule</li>
+	<li>Add / Edit Monitor</li>
+	<li>Add / Edit Alert Contacts</li>
+	<li>Dashboards</li>
+	<li>Settings</li>
+	<li>Documentation</li>
+	<li>Support</li>
 </ul>
 
 <div id="2"></div>
@@ -140,6 +141,9 @@ Types of data / anomalies covered are: -
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span>   
 </div>
 
 <script>
