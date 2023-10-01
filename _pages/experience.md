@@ -24,10 +24,12 @@ Displayed in reverse chronological order: -
 </ul>
 <h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
 <ul style="font-size:0.80em;">  
+  <li>Full stack development (HTML, CSS, JavaScript, ECMAScript, VB/C# .NET)</li>
   <li>Native Android App Development using Android Studio</li>
   <li>Java 7 / 8 Development</li>
-  <li>Bespoke C# and VB.NET desktop applications (WinForms)</li>
-  <li>Bespoke C# and VB.NET desktop applications (WinForms)</li>  
+  <li>Backend server-side development</li> 
+  <li>Bespoke C# and VB.NET desktop applications (WinForms)</li> 
+  <li>SQL Server database programming (T-SQL, Triggers, Admin etc...)</li>
   <li>Creation of scalable website / portal and extranet solutions</li>
   <li>SQL Server database programming</li>
   <li>Database Administration</li>    
