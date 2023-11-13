@@ -27,7 +27,7 @@ Displayed in reverse chronological order: -
   <li>Full stack development (HTML, CSS, JavaScript, ECMAScript, VB/C# .NET)</li>
   <li>Native Android App Development using Android Studio</li>
   <li>Java 7 / 8 Development</li>
-  <li>Backend server-side development</li> 
+  <li>Back-end server-side development</li> 
   <li>Bespoke C# and VB.NET desktop applications (WinForms)</li> 
   <li>SQL Server database programming (T-SQL, Triggers, Admin etc...)</li>
   <li>Creation of scalable website / portal and extranet solutions</li>
@@ -39,12 +39,12 @@ Displayed in reverse chronological order: -
   <li>Involvement in the scoping and specification process, including on-site scoping sessions and subsequent documentation</li>
   <li>Installing and updating new and existing software installations</li>
   <li>Liaising with customers and business partners as required</li>
-  <li>Creation and maintenance of company Knowledgebase in Microsoft OneNote</li>
-  <li>Assist work colleagues with technical coding and configiration issues</li>
+  <li>Creation and maintenance of company Knowledge base in Microsoft OneNote</li>
+  <li>Assist work colleagues with technical coding and configuration issues</li>
   <li>Maintaining records in the companies CRM system</li>
   <li>Project Management</li>   
   <li>Quoting customers for bespoke work and consultancy services</li>  
-  <li>Assisting intenal staff with technical issues</li>  
+  <li>Assisting internal staff with technical issues</li>  
 </ul>
 
 <hr/> 
@@ -160,7 +160,8 @@ I maintained and added new products and functionality to the online ferry ticket
 </ul>
   
 <hr/>
-<h2>GMAC Commercial Finance (General Motors)</h2>
+<h2>GMAC Commercial
+ Finance (General Motors)</h2>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Mar 2001 <strong>-to-</strong> Feb 2006  (GMACCF - Subsidiary of General Motors - Acquired from Bank of New York)</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Jan 1998 <strong>-to-</strong> Mar 2001 (Bank of New York - Acquired from Lloyds Bank Plc)</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Aug 1989 <strong>-to-</strong> Jan 1998 (Internal Factors Ltd - Subsidiary of Lloyds Bank Plc)</p>
@@ -217,7 +218,7 @@ I maintained and added new products and functionality to the online ferry ticket
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed during:</strong> 1987</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Junior Seaman (Missile Operator)</p>
 <h3>Overview</h3>
-<p style="font-size:0.80em;">Military basic training. Left before active service due to being voluteered down a career path I did <strong>not</strong> want to take. That being underwater for up to six months of the year!</p> 
+<p style="font-size:0.80em;">Military basic training. Left before active service due to being volunteered down a career path I did <strong>not</strong> want to take. That being underwater for up to six months of the year!</p> 
 <h3 style="margin-top: 0px">Examples of Work</h3> 
 <ul style="font-size:0.80em;">
   <li>No examples available.</li>
