@@ -29,10 +29,9 @@ Displayed in reverse chronological order: -
   <li>Java 7 / 8 Development</li>
   <li>Back-end server-side development</li> 
   <li>Bespoke C# and VB.NET desktop applications (WinForms)</li> 
+  <li>Database Administration</li>
   <li>SQL Server database programming (T-SQL, Triggers, Admin etc...)</li>
-  <li>Creation of scalable website / portal and extranet solutions</li>
-  <li>SQL Server database programming</li>
-  <li>Database Administration</li>    
+  <li>Creation of scalable website / portal and extranet solutions</li>    
   <li>Live environment troubleshooting, tracing and debugging</li>
   <li>Provide coding and configuration skills to deliver bespoke software solutions</li>
   <li>Providing 3rd line software and server support to our partners and clients</li> 
