@@ -5,10 +5,11 @@ permalink: /certificates/
 author_profile: false
 sitemap: false
 header: 
-   image: "/assets/images/certificates-achievments-header-background.jpg" 
+   image: "/assets/images/certificates-achievements-header-background.jpg" 
 ---
 
-Here is a record of some of my achievements over the years...
+<p>Here is a record of some of my achievements over the years...</p>
 
-Microsoft C# Foundation Certification 
+<h4>Microsoft C# Foundation Certification</h4>
 
+<img src="/assets/images/Microsoft-C#-Certification-Julian-Mummery.png" style="width:50%">
