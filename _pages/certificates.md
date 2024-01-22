@@ -10,6 +10,6 @@ header:
 
 <p>Here is a record of some of my achievements over the years...</p>
 
-<h4>Microsoft C# Foundation Certification</h4>
+<h4>Microsoft Developer Certification - Foundational C# with Microsoft</h4>
 
-<img src="/assets/images/Microsoft-CSharp-Certification-Julian-Mummery.png" style="width:80%">
+<img src="/assets/images/Microsoft-CSharp-Certification-Julian-Mummery.png" style="width:100%">
