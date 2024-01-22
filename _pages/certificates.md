@@ -12,4 +12,4 @@ header:
 
 <h4>Microsoft C# Foundation Certification</h4>
 
-<img src="/assets/images/Microsoft-CSharp-Certification-Julian-Mummery.png" style="width:50%">
+<img src="/assets/images/Microsoft-CSharp-Certification-Julian-Mummery.png" style="width:80%">
