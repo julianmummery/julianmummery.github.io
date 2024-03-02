@@ -4,7 +4,7 @@ permalink: /coding-projects/
 title: "Projects"
 author_profile: true
 header: 
-   image: "/assets/images/header-android-code.png" 
+   image: "/assets/images/Coding-Projects-Background.jpg" 
 ---
 
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;">Categorised by language in alphanumeric ascending order: -</p>
