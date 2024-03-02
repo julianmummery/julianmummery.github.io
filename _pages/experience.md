@@ -4,7 +4,7 @@ permalink: /experience/
 title: "Experience"
 author_profile: true
 header: 
-   image: "/assets/images/header-background.jpg" 
+   image: "/assets/images/coding-experience-background.jpg" 
 ---
 
 Displayed in reverse chronological order: -
