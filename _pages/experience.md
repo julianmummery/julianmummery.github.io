@@ -215,7 +215,7 @@ I maintained and added new products and functionality to the online ferry ticket
 <hr/>
 <h2>The Royal Navy</h2>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed during:</strong> 1987</p>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Junior Seaman (Missile Operator)</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Junior Seaman Operator</p>
 <h3>Overview</h3>
 <p style="font-size:0.80em;">Military basic training. Left before active service due to being volunteered down a career path I did <strong>not</strong> want to take. That being underwater for up to six months of the year!</p> 
 <h3 style="margin-top: 0px">Examples of Work</h3> 
