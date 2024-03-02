@@ -6,6 +6,8 @@ main:
     url: experience/
   - title: "Projects"
     url: coding-projects/  
+  - title: "Certificates"
+    url: certificates/  
   - title: "Code Examples"
     url: coding-examples/   
   - title: "Software"
