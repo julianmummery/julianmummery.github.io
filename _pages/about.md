@@ -37,7 +37,7 @@ For more specific information about the businesses I have worked for along with 
     <li>Windows Desktop Applications using .NET WinForms (Client Server & Standalone)</li>  
     <li>Web Applications / Websites using ASP.NET</li>
 </ul>
-<h5 style="padding-left:1.3em;">Backend Deveopment</h5>
+<h5 style="padding-left:1.3em;">Backend Development</h5>
 <ul style="font-size:0.80em;">
     <li>Windows Services using .NET (C#/VB)</li>  
     <li>Batch Scripts using VBScript & DOS Batch Script</li>
