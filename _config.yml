@@ -92,9 +92,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : true # false (default), "google", "google-universal", "custom"
+  # provider               : true # false (default), "google", "google-universal", "custom"
+  provider               : true # false (default), "custom"
   google:
-    tracking_id          : UA-1832076-14
+    tracking_id          : G-GTX0335E8P
     anonymize_ip         : false # true, false (default)
 
 
