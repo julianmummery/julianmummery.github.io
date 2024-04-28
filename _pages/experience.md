@@ -34,7 +34,7 @@ Displayed in reverse chronological order: -
   <li>Creation of scalable website / portal and extranet solutions</li>    
   <li>Live environment troubleshooting, tracing and debugging</li>
   <li>Provide coding and configuration skills to deliver bespoke software solutions</li>
-  <li>Providing 3rd line software and server support to our partners and clients</li> 
+  <li>Providing Sage CRM software and server support to our customers</li> 
   <li>Involvement in the scoping and specification process, including on-site scoping sessions and subsequent documentation</li>
   <li>Installing and updating new and existing software installations</li>
   <li>Liaising with customers and business partners as required</li>
