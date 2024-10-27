@@ -9,9 +9,31 @@ header:
 
 Displayed in reverse chronological order: -
 
+<hr/> 
+<h2>Compliance Map Ltd</h2>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Oct 2024 <strong>-to-</strong> Present</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> Implementation Manager</p>
+<h3>Overview</h3>
+<p style="font-size:0.80em;">Responsible for project implementations, configuration and support of the software platforms.</p>
+<h3 style="margin-top: 0px">Examples of Work</h3>
+<ul style="font-size:0.80em;">
+  <li><a href="https://julianmummery.github.io/tbc" target="_blank">tbc</a></li>
+</ul>
+<h3 style="margin-top: 0px">Duties and Responsibilities</h3> 
+<ul style="font-size:0.80em;">
+  <li>Managing and executing implementation plans / work packages</li>
+  <li>Documenting customer and internal requirements and configuring systems to meet customer expectations</li>
+  <li>Understanding client requirements and offering solutions in-line with the capabilities of the software and industry best practices</li>
+  <li>Develop User Acceptance Testing scripts</li>
+  <li>Support the client post-implementation and assist in continuous improvement cycles</li>
+  <li>Perform testing of solutions during implementation</li>
+  <li>Conduct client training of the software solutions and develop training aids/help documentation</li>
+  <li>Ensuring software changes/bugs are reported correctly and resolved within the project delivery timescale</li>  
+</ul>
+
 <hr/>
 <h2>Loria Consulting Ltd</h2>
-<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Nov 2013 <strong>-to-</strong> Present</p>
+<p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Employed from:</strong> Nov 2013 <strong>-to-</strong> Oct 2024</p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0; color: green; font-size: small;"><strong>Note:</strong> <a href="https://www.innov8.co.uk/news/loria-consulting-ltd-becomes-latest-addition-innov8-group" target="_blank" style="color: green;">Part of Innov8 Group since 1st May 2023</a></p>
 <p style="font-size:0.80em; margin-top:0; margin-bottom: 0;"><strong>Job Title:</strong> CRM Consultant / Developer</p>
 <h3>Overview</h3>
